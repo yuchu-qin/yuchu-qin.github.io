@@ -3,11 +3,9 @@ permalink: /
 author_profile: true
 ---
 
-## About me
+## Biography
 
-I am a [Lecturer in Applied Artificial Intelligence](https://business.leeds.ac.uk/faculty/staff/2083/dr-peizhi-shi) at the Centre for Decision Research, University of Leeds. In March 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, University of Manchester. From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
-
-My research interests include **machine learning (ML), artificial intelligence (AI), and their real-world applications**, particularly in sustainable manufacturing, design for additive manufacturing, and production research. I have been conducting research in machine learning for over ten years and have authored or co-authored {{site.publications | size}} papers in leading journals in my field, such as IEEE Transactions on Industrial Informatics, Robotics and Computer-Integrated Manufacturing, Virtual and Physical Prototyping, Journal of Intelligent Manufacturing, Computers & Industrial Engineering, and Cognitive Computation. For details, please visit my [Publications](index.html#ml-publications) and [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
+I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing. I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the Higher Education Academy, a Member of the EPSRC Peer Review College, an Expert Reviewer of AHRC Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
 
 ## ML publications
 
