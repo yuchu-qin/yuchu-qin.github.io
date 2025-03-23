@@ -1,17 +1,11 @@
 # main links links
 main:
-
+  
   - title: "Biography"
     url: /index.html#biography
-    
-  - title: "Employment"
-    url: /index.html#employment
-    
-  - title: "Education"
-    url: /index.html#education
 
-  - title: "Dissertations"
-    url: /index.html#dissertations
+  - title: "Experience"
+    url: /index.html#experience
     
   - title: "Research"
     url: /index.html#research
@@ -22,20 +16,14 @@ main:
   - title: "Publications"
     url: /index.html#publications
 
-  - title: "Communications"
-    url: /index.html#communications
-
   - title: "Teaching"
     url: /index.html#teaching
 
   - title: "Supervision"
     url: /index.html#supervision
 
-  - title: "Memberships"
-    url: /index.html#memberships
+  - title: "Activities"
+    url: /index.html#activities
 
-  - title: "Editorships"
-    url: /index.html#editorships
-
-  - title: "Reviewerships"
-    url: /index.html#reviewerships
+  - title: "News"
+    url: /index.html#news
