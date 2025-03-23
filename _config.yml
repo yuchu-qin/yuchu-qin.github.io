@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.  Peizhi Shi"
+title                    : "Dr Yuchu Qin"
 title_separator          : "-"
-name                     : &name "Dr. Peizhi Shi"
-description              : &description "Lecturer in Applied Artificial Intelligence"
-url                      : https://peizhishi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr Yuchu Qin"
+description              : &description "Senior Researcher"
+url                      : https://yuchu-qin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "peizhishi/peizhishi.github.io"
+repository               : "yuchu-qin/yuchu-qin.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peizhi Shi"
-  avatar           : "myprofile.jpeg"
-  bio              : "Lecturer in Applied AI"
+  name             : "Yuchu Qin"
+  avatar           : "yuchu.jpg"
+  bio              : "Senior Researcher"
   location         : 
-  employer         : "University of Leeds"
+  employer         : "University of Huddersfield"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qQuCvmQAAAAJ"
-  email            : "p.shi@leeds.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=hFWFwUgAAAAJ&hl=en"
+  email            : "y.qin@hud.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Yuchu-Qin"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PeizhiShi"
+  github           : "yuchu-qin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6724-282X"
+  linkedin         : "https://uk.linkedin.com/in/yuchu-qin-67a138135"
+  orcid            : "https://orcid.org/0000-0002-5723-5519"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
