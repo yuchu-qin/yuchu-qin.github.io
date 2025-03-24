@@ -7,7 +7,15 @@ author_profile: true
 
 I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing. I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the Higher Education Academy, a Member of the EPSRC Peer Review College, an Expert Reviewer of AHRC Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
 
-## ML publications
+## Experience
+- AAAA
+- BBBB
+
+## Research
+- AAAA
+- BBBB
+
+## Publications
 
 {% include base_path %}
 
@@ -15,8 +23,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 
 For other AI-related publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
-
-## Teaching experience
+## Teaching
 
 ### Module leader
 - Quantitative analysis (2024), University of Leeds
@@ -31,6 +38,13 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 - Algorithms and imperative programming (2013--2017), University of Manchester
 - 3rd Asian-Pacfic summer school on formal methods (2011), University of Science and Technology of China
 
+## Supervision
+- AAAA
+- BBBB
+
+## Activities
+- AAAA
+- BBBB
 
 ## Professional activity
 
@@ -64,7 +78,7 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 - 2023-present, Lecturer in Applied AI, University of Leeds
 - 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
 
-## Recent news
+## News
 
 - Our abstract has been accepted for presentation at the Operations and Supply Chain Management (OSCM) Conference. This is joint work with Dr. Fanlin Meng from the University of Exeter Business School and Dr. Yuchu Qin from the EPSRC Future Advanced Metrology Hub.
 - I was invited to give a talk on “Machine Learning for Decision-making in Intelligent Manufacturing” at the Centre for Decision Research, University of Leeds.
