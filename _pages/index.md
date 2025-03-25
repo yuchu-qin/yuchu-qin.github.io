@@ -5,7 +5,7 @@ author_profile: true
 
 ## Biography
 
-I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the Higher Education Academy, a Member of the EPSRC Peer Review College, an Expert Reviewer of AHRC Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
+I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), a Member of the [EPSRC](https://www.ukri.org/councils/epsrc/) Peer Review College, an Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
 
 ## Experience
 ### Work Experience
@@ -60,17 +60,16 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 ### Academic Journal Reviewerships
 - Elsevier (20):
 - Springer (10):
-- IEEE (1): 
-- WILEY (2):
-- SAGE (2):
-- T&F (7):
-- Emerald (3):
-- IOS (1):
-- WS (1):
-- Hindawi (3):
-- AIMS (2):
-- MDPI (8):
-- PLOS (1):
+- IEEE (1): [IEEE Access](https://ieeeaccess.ieee.org/).
+- WILEY (5): [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/ijis); [Advanced Engineering Materials](https://advanced.onlinelibrary.wiley.com/journal/15272648); [Complexity](https://onlinelibrary.wiley.com/journal/8503); [Journal of Mathematics](https://onlinelibrary.wiley.com/journal/1469); [Mathematical Problems in Engineering](https://onlinelibrary.wiley.com/journal/2629).
+- SAGE (2): [Proc IMechE Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid); [Advances in Mechanical Engineering](https://journals.sagepub.com/home/ADE).
+- T&F (7): International Journal of Production Research;Mechanics Based Design of Structures andMachines; Applied Artificial Intelligence; Journal of Engineering Design; Engineering Optimization; Cogent Mathematics & Statistics; Research in Mathematics.
+- Emerald (3): [Rapid Prototyping Journal](https://www.emerald.com/insight/publication/issn/1355-2546); [Assembly Automation](https://www.emerald.com/insight/publication/issn/0144-5154); [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k).
+- IOS (1): [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems).
+- WS (1): [International Journal of Information Technology & Decision Making](https://www.worldscientific.com/worldscinet/IJITDM?srsltid=AfmBOopoFUHXo6BsCmhAIvw3cr7SSRPaw5rCLOQ7F93CI6r-HX9Ragxn).
+- AIMS (2): [AIMS Mathematics](https://www.aimspress.com/journal/Math); [Mathematical Biosciences and Engineering](https://www.aimspress.com/journal/mbe).
+- MDPI (8): [Sustainability](https://www.mdpi.com/journal/sustainability); [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp); [Information](https://www.mdpi.com/journal/information); [Electronics](https://www.mdpi.com/journal/electronics); [Applied Sciences](https://www.mdpi.com/journal/applsci); [Symmetry](https://www.mdpi.com/journal/symmetry); [Mathematics](https://www.mdpi.com/journal/mathematics); [Axioms](https://www.mdpi.com/journal/axioms).
+- PLOS (1): [Plos One](https://journals.plos.org/plosone/).
 
 ## News
 
