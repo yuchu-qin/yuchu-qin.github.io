@@ -22,6 +22,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 
 ## Publications
 ### 2025
+- Tang Z, Jiao Y, Huang M*, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
 - **Qin Y**, Shi P, Lou S*, See TL, Jamal M, Zeng W, Blunt L, Scott PJ, Jiang X. [Data-driven optimisation of process parameters for reducing developed surface area ratio in laser powder bed fusion](https://link.springer.com/article/10.1007/s00170-025-15038-4). _The International Journal of Advanced Manufacturing Technology_, 2025, 136: 3821-3831.
 - Cui W, Lou S, Zeng W*, Kadirkamanathan V, **Qin Y**, Scott PJ, Jiang X. [BlurRes-UNet: A novel neural network for automated surface characterisation in metrology](https://www.sciencedirect.com/science/article/pii/S0166361524001568). _Computers in Industry_, 2025, 165: 104228.
 
