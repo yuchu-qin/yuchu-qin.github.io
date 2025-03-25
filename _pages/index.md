@@ -35,9 +35,9 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 - 09/2023 – 12/2023: Tutor of the Practical Sessions of Data Mining (203 postgraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
 
 ## Supervision
-- 10/2024 – 10/2028: Main supervisor of Ms Boqing Ge, a PhD student at the University of Huddersfield, on Deep Learning in Manufacturing Feature Recognition.
-- 10/2023 – 10/2027: Co-supervisor of Mr Yuanshuo Liu, a PhD student at the University of Huddersfield, on Investigating the Impact of Surface Roughness and Internal Defects on the Mechanical Performance of Additive Manufacturing Components.
-- 10/2023 – 10/2027: Co-supervisor of Mr Kexin Yin, a PhD student at the University ofHuddersfield, on Digital Twin Enabled In-Line Multi-Objective Optimisation for Extrusion-Based Additive Manufacturing.
+- 10/2024 – 10/2028: Main supervisor of Ms Boqing Ge, a PhD student at the [University of Huddersfield](https://www.hud.ac.uk/), on Deep Learning in Manufacturing Feature Recognition.
+- 10/2023 – 10/2027: Co-supervisor of Mr Yuanshuo Liu, a PhD student at the [University of Huddersfield](https://www.hud.ac.uk/), on Investigating the Impact of Surface Roughness and Internal Defects on the Mechanical Performance of Additive Manufacturing Components.
+- 10/2023 – 10/2027: Co-supervisor of Mr Kexin Yin, a PhD student at the [University of Huddersfield](https://www.hud.ac.uk/), on Digital Twin Enabled In-Line Multi-Objective Optimisation for Extrusion-Based Additive Manufacturing.
 
 ## Activities
 ### Professional Body Memberships
@@ -54,12 +54,23 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 - 12/2020 – present: Reviewer Board Member of [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp).
 
 ### Funding Body Reviewerships
-- AAAA
-- BBBB
+- 03/2025 – present: Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications.
+- 01/2025 – present: Expert Reviewer of [EPSRC](https://www.ukri.org/councils/epsrc/) Funding Applications.
 
 ### Academic Journal Reviewerships
-- AAAA
-- BBBB
+- Elsevier (20):
+- Springer (10):
+- IEEE (1): 
+- WILEY (2):
+- SAGE (2):
+- T&F (7):
+- Emerald (3):
+- IOS (1):
+- WS (1):
+- Hindawi (3):
+- AIMS (2):
+- MDPI (8):
+- PLOS (1):
 
 ## News
 
