@@ -9,8 +9,9 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 
 ## Experience
 ### Work experience
-- 09/2024 – present: Senior Research Fellow, EPSRCFuture Advanced Metrology Hub for Sustainable Manufacturing, University of Huddersfield, UK.
-- 06/2021 – 08/2024: Research Fellow, EPSRC Future Advanced Metrology Hub, University of Huddersfield, UK.
+- 09/2024 – present: Senior Research Fellow, [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/), [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 06/2021 – 08/2024: Research Fellow, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), [University of Huddersfield](https://www.hud.ac.uk/), UK.
+
 ### Education experience
 - 09/2024 – present: .
 - 06/2021 – 08/2024: .
