@@ -10,6 +10,10 @@
  *
 */
 
+body, p, h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
