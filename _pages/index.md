@@ -5,7 +5,7 @@ author_profile: true
 
 ## Biography
 
-I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing. I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the Higher Education Academy, a Member of the EPSRC Peer Review College, an Expert Reviewer of AHRC Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
+I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the Higher Education Academy, a Member of the EPSRC Peer Review College, an Expert Reviewer of AHRC Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
 
 ## Experience
 ### Work experience
@@ -13,8 +13,8 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - 06/2021 – 08/2024: Research Fellow, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), [University of Huddersfield](https://www.hud.ac.uk/), UK.
 
 ### Education experience
-- 09/2024 – present: .
-- 06/2021 – 08/2024: .
+- 10/2017 – 04/2021: PhD in Advanced Manufacturing and Precision Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK (Thesis: [Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing](https://eprints.hud.ac.uk/id/eprint/35529/)).
+- 09/2013 – 09/2017: PhD in Measurement Technology and Instrument, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China (Thesis: [Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm)).
 
 ## Research
 - AAAA
