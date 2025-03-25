@@ -13,8 +13,8 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - 06/2021 – 08/2024: Research Fellow, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), [University of Huddersfield](https://www.hud.ac.uk/), UK.
 
 ### Education experience
-- 10/2017 – 04/2021: PhD in Advanced Manufacturing and Precision Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK (Thesis: [Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing](https://eprints.hud.ac.uk/id/eprint/35529/)).
-- 09/2013 – 09/2017: PhD in Measurement Technology and Instrument, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China (Thesis: [Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm)).
+- 10/2017 – 04/2021: PhD in Advanced Manufacturing and Precision Engineering (Thesis: [Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing](https://eprints.hud.ac.uk/id/eprint/35529/)), [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 09/2013 – 09/2017: PhD in Measurement Technology and Instrument (Thesis: [Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm)), [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
 
 ## Research
 - AAAA
