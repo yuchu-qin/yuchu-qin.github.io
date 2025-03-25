@@ -21,12 +21,12 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Computer Technologies: Artificial intelligence; Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
 
 ## Publications
+### 2025
+**Qin Y**, Shi P, Lou S*, See TL, Jamal M, Zeng W, Blunt L, Scott PJ, Jiang X. [Data-driven optimisation of process parameters for reducing developed surface area ratio in laser powder bed fusion](https://link.springer.com/article/10.1007/s00170-025-15038-4). [The International Journal of Advanced Manufacturing Technology](https://link.springer.com/journal/170), 2025, 136: 3821-3831.
 
-{% include base_path %}
+### 2024
 
-<ol>{% for post in site.publications reversed %}{% if post.category == 'ML' %}{% include achieve_paper_title.html %} {% endif %}{% endfor %}</ol>
-
-For other AI-related publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
+### 2023
 
 ## Teaching
 - 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
