@@ -1,3 +1,5 @@
+{{ "This is a long-worded example that might need hyphenation." | replace: "long-worded", "long&#8209;worded" }}
+
 ---
 permalink: /
 author_profile: true
