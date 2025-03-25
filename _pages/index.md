@@ -1,11 +1,3 @@
-p {
-    hyphens: auto;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    word-break: break-word;
-}
-
 ---
 permalink: /
 author_profile: true
@@ -25,8 +17,8 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - 09/2013 – 09/2017: PhD in Measurement Technology and Instrument (Thesis: [Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm)), [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
 
 ## Research
-- AAAA
-- BBBB
+- Mechanical Engineering: Design for additive manufacturing; Computer-aided tolerance design; Intelligent manufacturing; Product data representation; Product design, manufacturing, and measurement.
+- Computer Technologies: Artificial intelligence;Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
 
 ## Publications
 
@@ -37,8 +29,10 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 For other AI-related publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
 ## Teaching
-- AAAA
-- BBBB
+- 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
+- 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development and Transferrable Skills (95 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
+- 01/2024 – 04/2024: Lecturer and Tutor of the Matlab Sessions of Professional Development and Transferrable Skills (66 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
+- 09/2023 – 12/2023: Tutor of the Practical Sessions of Data Mining (203 postgraduates).
 
 ### Module leader
 - Quantitative analysis (2024), University of Leeds
