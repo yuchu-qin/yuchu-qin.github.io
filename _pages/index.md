@@ -27,6 +27,10 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Cui W, Lou S, Zeng W*, Kadirkamanathan V, **Qin Y**, Scott PJ, Jiang X. [BlurRes-UNet: A novel neural network for automated surface characterisation in metrology](https://www.sciencedirect.com/science/article/pii/S0166361524001568). _Computers in Industry_, 2025, 165: 104228.
 
 ### 2024
+- Li Q, Zhong Y, **Qin Y***. [MoCoKGC: Momentum Contrast Entity Encoding for Knowledge Graph Completion](https://aclanthology.org/2024.emnlp-main.832/). In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, ACL, 2024, pp. 14940-14952.
+- Yin K, Lou S*, **Qin Y**, Scott P, Jiang X. [Computer Vision-enhanced In-situ Surface Topography Measurement with Focus Variation Microscopy for Material Extrusion-based Additive Manufacturing](https://ieeexplore.ieee.org/document/10718829). In: _29th International Conference on Automation and Computing_, IEEE, 2024, pp. 1-6.
+- Liu W, Liu Y, Wang S, **Qin Y**, Zeng W, Lou S*. [Correlation of porosity and surface texture for additively manufactured parts: impact of build orientation, support structure and heat dissipation area](https://www.researchgate.net/profile/Weidong-Liu-15/publication/383422637_Correlation_of_porosity_and_surface_texture_for_additively_manufactured_parts_impact_of_build_orientation_support_structure_and_heat_dissipation_area/links/66cc83c1920e05672e506937/Correlation-of-porosity-and-surface-texture-for-additively-manufactured-parts-impact-of-build-orientation-support-structure-and-heat-dissipation-area.pdf). In: _2024 ASPEeuspen Summer Topical Meeting Advancing Precision in Additive Manufacturing_, ASPE, 2024, pp. 71-76.
+
 
 ### 2023
 
