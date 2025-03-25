@@ -1,4 +1,10 @@
-{{ "This is a long-worded example that might need hyphenation." | replace: "long-worded", "long&#8209;worded" }}
+p {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    word-break: break-word;
+}
 
 ---
 permalink: /
