@@ -9,6 +9,9 @@
  *  - https://twitter.com/mmistakes
  *
 */
+.align-left {
+    text-align: left !important;
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
