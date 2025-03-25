@@ -18,7 +18,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 
 ## Research
 - Mechanical Engineering: Design for additive manufacturing; Computer-aided tolerance design; Intelligent manufacturing; Product data representation; Product design, manufacturing, and measurement.
-- Computer Technologies: Artificial intelligence;Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
+- Computer Technologies: Artificial intelligence; Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
 
 ## Publications
 
