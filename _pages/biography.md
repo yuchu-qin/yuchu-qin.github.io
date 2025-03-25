@@ -1,6 +1,6 @@
 ---
 permalink: /
-author_profile: true
+biography: true
 ---
 
 ## Biography
