@@ -2,7 +2,6 @@
 permalink: /
 author_profile: true
 ---
-<p class="hyphenate">This is a verylongwordthatneedshyphenation.</p>
 
 ## Biography
 
