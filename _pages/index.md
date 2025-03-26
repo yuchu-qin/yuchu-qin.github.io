@@ -23,7 +23,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 
 ## Publications
 ### 2025
-- Tang Z, Jiao Y, Huang M*, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
+- Tang Z, Jiao Y*, Huang M, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
 - **Qin Y**, Shi P, Lou S*, See TL, Jamal M, Zeng W, Blunt L, Scott PJ, Jiang X. [Data-driven optimisation of process parameters for reducing developed surface area ratio in laser powder bed fusion](https://link.springer.com/article/10.1007/s00170-025-15038-4). _The International Journal of Advanced Manufacturing Technology_, 2025, 136: 3821-3831.
 - Cui W, Lou S, Zeng W*, Kadirkamanathan V, **Qin Y**, Scott PJ, Jiang X. [BlurRes-UNet: A novel neural network for automated surface characterisation in metrology](https://www.sciencedirect.com/science/article/pii/S0166361524001568). _Computers in Industry_, 2025, 165: 104228.
 
@@ -97,7 +97,28 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - **Qin Y**, Lu W*, Qi Q, Liu X, Zhong Y, Scott PJ, Jiang X. [Status, Comparison, and Issues of Computer-Aided Design Model Data Exchange Methods Based on Standardized Neutral Files and Web Ontology Language File](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/17/1/010801/472820/Status-Comparison-and-Issues-of-Computer-Aided). _Journal of Computing and Information Science in Engineering_, 2017, 17(1): 010801.
 
 ### 2016
+- Lu W, **Qin Y***, Qi Q, Zeng W, Zhong Y, Liu X, Jiang X. [Selecting a semantic similarity measure for concepts in two different CAD model data ontologies](https://www.sciencedirect.com/science/article/pii/S1474034616301501). _Advanced Engineering Informatics_, 2016, 30(3): 449-466.
 
+### 2015
+- Zhong Y,Wang B*, Huang M, **Qin Y**, Wu S. Functional Tolerance Analysis Based on Description Logic. _Computer Integrated Manufacturing Systems_, 2015, 21(8): 2004-2013.
+- **Qin Y**, Lu W*, Liu X, Huang M, Zhou L, Jiang X. [Description logic-based automatic generation of geometric tolerance zones}(https://link.springer.com/article/10.1007/s00170-015-6839-2). _The International Journal of Advanced Manufacturing Technology_, 2015, 79: 1221-1237.
+- Lu W, **Qin Y**, Liu X, Huang M*, Zhou L, Jiang X. [Enriching the semantics of variational geometric constraint data with ontology](https://www.sciencedirect.com/science/article/pii/S0010448515000020). _Computer-Aided Design_, 2015, 63: 72-85.
+- **Qin Y**, Lu W*, Qi Q, Liu X, Zhou L, Li T. [Ontology-based semantic interpretation of cylindricity specification in the next-generation GPS](https://www.sciencedirect.com/science/article/pii/S2212827115003169). _Procedia CIRP_, 2015, 27: 124-130.
+
+### 2014
+- **Qin Y***, Zhong Y, Huang M, Liu F. [An assembly tolerance representation model based on spatial relations for generating assembly tolerance types](https://journals.sagepub.com/doi/full/10.1177/0954406213495501). _Proc IMechE Part C: Journal of Mechanical Engineering Science_, 2014, 228(6): 1005-1020.
+- Zhong Y, **Qin Y**, Huang M*, Lu W, Chang L. [Constructing a meta-model for assembly tolerance types with a description logic based approach](https://www.sciencedirect.com/science/article/pii/S0010448513002078). _Computer-Aided Design_, 2014, 48: 1-16.
+
+### 2013
+- Zhong Y, **Qin Y**, Huang M, Lu W*, Gao W, Du Y. [Automatically generating assembly tolerance types with an ontology-based approach](https://www.sciencedirect.com/science/article/pii/S0010448513001036). _Computer-Aided Design_, 2013, 45(11): 1253-1275.
+- **Qin Y***, Zhong Y, Chang L, Huang M. Automatic Generation of Tolerance Types Based on Geometric Tolerance Description Logic. _Computer Integrated Manufacturing Systems_, 2013, 19(7): 1490-1499.
+- Zhong Y, **Qin Y***, Huang M, Zeng C. Tolerance RepresentationModel Based on Feature Surfaces and Spatial Relations. _Journal of Mechanical Engineering_, 2013, 49(11): 161-170.
+- Xie Y, Du Y, Zhong Y*, **Qin Y**. [Semantic Representation of Flatness Based on ALC(R) and Mathematical Definition](https://www.scientific.net/AMR.662.961). _Advanced Materials Research_, 2013, 662: 961-965.
+- Zhong Y, Huang M, **Qin Y**. _Knowledge Representation of Geometrical Product Specifications and Verification_. Xidian University Press, 2013.
+
+### 2012
+- **Qin Y***, Zhong Y, Chang L, Huang M. [A Representation Model of Geometrical Tolerances Based on First Order Logic](https://link.springer.com/chapter/10.1007/978-3-642-32891-6_30). In: _7th International Conference on Intelligent Information Processing_, Springer Nature, 2012, vol. 385, pp. 234-239.
+- Xia X, Zhong Y*, **Qin Y**, Ji L. [Research on Operational Model of New-Generation GPS Based on Dynamic Description Logic](https://www.scientific.net/AMM.128-129.702). _Applied Mechanics and Materials_, 2012, 128: 702-705.
 
 ## Teaching
 - 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
