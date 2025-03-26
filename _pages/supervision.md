@@ -1,24 +1,9 @@
 ---
-permalink: /biography/
+permalink: /supervision/
 author_profile: true
 ---
 
-
-
-## Biography
-
-### Work experience
-- 2023-present, Lecturer in Applied AI, University of Leeds
-- 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
-
-### Education
-- 2013-2019, Ph.D. in Computer Science (Machine Learning), University of Manchester
-- 2010-2013, Master in Software Engineering, University of Science and Technology of China
-- 2006-2010, Bachelor in Computer Science, Guilin University of Electronic Technology
-
-
-
-
-
-
-
+## Supervision
+- 10/2024 – 10/2028: **Main supervisor** of Ms Boqing Ge, a PhD student at the [University of Huddersfield](https://www.hud.ac.uk/), on Deep Learning in Manufacturing Feature Recognition.
+- 10/2023 – 10/2027: **Co-supervisor** of Mr Yuanshuo Liu, a PhD student at the [University of Huddersfield](https://www.hud.ac.uk/), on Investigating the Impact of Surface Roughness and Internal Defects on the Mechanical Performance of Additive Manufacturing Components.
+- 10/2023 – 10/2027: **Co-supervisor** of Mr Kexin Yin, a PhD student at the [University of Huddersfield](https://www.hud.ac.uk/), on Digital Twin Enabled In-Line Multi-Objective Optimisation for Extrusion-Based Additive Manufacturing.
