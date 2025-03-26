@@ -62,6 +62,15 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Shi P, Qi Q*, **Qin Y**, Scott PJ, Jiang X. [Intersecting Machining Feature Localization and Recognition via Single Shot Multibox Detector](https://ieeexplore.ieee.org/document/9222288). _IEEE Transactions on Industrial Informatics_, 2021, 17(5): 3292-3302.
 - **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [Automatic determination of part build orientation for laser powder bed fusion](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832793). _Virtual and Physical Prototyping_, 2021, 16(1): 29-49.
 
+### 2020
+- Qin Y, Qi Q*, Shi P, Scott PJ, Jiang X. Novel operational laws and powerMuirhead mean operators of picture fuzzy values in the framework of Dempster-Shafer theory for multiple criteria decision making. Computers & Industrial Engineering, 2020, 149: 106853.
+- Qin Y, Qi Q*, Shi P, Scott PJ, Jiang X. Automatic generation of alternative build orientations for laser powder bed fusion based on facet clustering. Virtual and Physical Prototyping, 2020, 15(3): 307-324.
+- Qin Y, Qi Q*, Shi P, Scott PJ, Jiang X. Linguistic interval-valued intuitionistic fuzzy Archimedean prioritised aggregation operators for multi-criteria decision making. Journal of Intelligent & Fuzzy Systems, 2020, 38(4): 4643-4666.
+- Shi P, Qi Q*, Qin Y, Scott PJ, Jiang X. A novel learning-based feature recognition method using multiple sectional view representation. Journal of Intelligent Manufacturing, 2020, 31: 1291-1309.
+- Qin Y, Qi Q, Scott PJ*, Jiang X. An additive manufacturing process selection approach based on fuzzy Archimedean weighted power Bonferroni aggregation operators. Robotics and Computer-Integrated Manufacturing, 2020, 64: 101926.
+- Qin Y, Qi Q*, Scott PJ, Jiang X. Multiple criteria decision making based on weighted Archimedean power partitioned Bonferroni aggregation operators of generalised orthopair membership grades. Soft Computing, 2020, 24: 12329-12355.
+- Qin Y, Cui X,Huang M*, Zhong Y, Tang Z, Shi P. Linguistic Interval-Valued Intuitionistic Fuzzy Archimedean Power Muirhead Mean Operators for Multiattribute Group Decision-Making. Complexity, 2020, 2373762.
+
 ## Teaching
 - 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
 - 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development and Transferrable Skills (95 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
