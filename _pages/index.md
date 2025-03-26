@@ -67,7 +67,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Shi P, Qi Q*, **Qin Y**, Scott PJ, Jiang X. [A novel learning-based feature recognition method using multiple sectional view representation](https://link.springer.com/article/10.1007/s10845-020-01533-w). _Journal of Intelligent Manufacturing_, 2020, 31: 1291-1309.
 - **Qin Y**, Qi Q, Scott PJ*, Jiang X. [An additive manufacturing process selection approach based on fuzzy Archimedean weighted power Bonferroni aggregation operators](https://www.sciencedirect.com/science/article/pii/S0736584518305945). _Robotics and Computer-Integrated Manufacturing_, 2020, 64: 101926.
 - **Qin Y**, Qi Q*, Scott PJ, Jiang X. [Multiple criteria decision making based on weighted Archimedean power partitioned Bonferroni aggregation operators of generalised orthopair membership grades](https://link.springer.com/article/10.1007/s00500-020-04676-3). _Soft Computing_, 2020, 24: 12329-12355.
-- **Qin Y**, Cui X,Huang M*, Zhong Y, Tang Z, Shi P. [Linguistic Interval-Valued Intuitionistic Fuzzy Archimedean Power Muirhead Mean Operators for Multiattribute Group Decision-Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2373762). _Complexity_, 2020, 2373762.
+- **Qin Y**, Cui X, Huang M*, Zhong Y, Tang Z, Shi P. [Linguistic Interval-Valued Intuitionistic Fuzzy Archimedean Power Muirhead Mean Operators for Multiattribute Group Decision-Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2373762). _Complexity_, 2020, 2373762.
 
 ### 2019
 - **Qin Y**, Cui X, Huang M*, Zhong Y, Tang Z, Shi P. [Archimedean Muirhead Aggregation Operators of q-Rung Orthopair Fuzzy Numbers for Multicriteria Group Decision Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/3103741). _Complexity_, 2019, 3103741.
@@ -86,7 +86,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Zhong Y, Jiang C*, **Qin Y**, Yang G, Huang M. Automatic Generation of Assembly Sequences Based on Ontology. _Computer Integrated Manufacturing Systems_, 2018, 24(6): 1345-1356.
 - Cui X, Cai S*, **Qin Y**. [Constructing a Linearly Combined Similarity Measure with High Accuracy for Assessing the Similarity between Linguistic Items](https://www.ijeas.org/constructing-a-linearly-combined-similarity-measure-with-high-accuracy-for-assessing-the-similarity-between-linguistic-items). _International Journal of Engineering and Applied Sciences_, 2018, 5(5): 56-64.
 - **Qin Y**, Lu W*, Qi Q, Liu X, Huang M, Scott PJ, Jiang X. [Towards an ontology-supported case-based reasoning approach for computer-aided tolerance specification](https://www.sciencedirect.com/science/article/pii/S0950705117305348). _Knowledge-Based Systems_, 2018, 141: 129-147.
-- **Qin Y**, Lu W*, Qi Q, Liu X,Huang M, Scott PJ, Jiang X. [Towards a tolerance representation model for generating tolerance specification schemes and corresponding tolerance zones](https://link.springer.com/article/10.1007/s00170-018-1977-y). _The International Journal of Advanced Manufacturing Technology_, 2018, 97: 1801-1821.
+- **Qin Y**, Lu W*, Qi Q, Liu X, Huang M, Scott PJ, Jiang X. [Towards a tolerance representation model for generating tolerance specification schemes and corresponding tolerance zones](https://link.springer.com/article/10.1007/s00170-018-1977-y). _The International Journal of Advanced Manufacturing Technology_, 2018, 97: 1801-1821.
 - **Qin Y**, Qi Q*, Lu W, Liu X, Scott PJ, Jiang X. [A review of representation models of tolerance information](https://link.springer.com/article/10.1007/s00170-017-1352-4). _The International Journal of Advanced Manufacturing Technology_, 2018, 95: 2193-2206.
 
 ### 2017 
@@ -98,8 +98,8 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Lu W, **Qin Y***, Qi Q, Zeng W, Zhong Y, Liu X, Jiang X. [Selecting a semantic similarity measure for concepts in two different CAD model data ontologies](https://www.sciencedirect.com/science/article/pii/S1474034616301501). _Advanced Engineering Informatics_, 2016, 30(3): 449-466.
 
 ### 2015
-- Zhong Y,Wang B*, Huang M, **Qin Y**, Wu S. Functional Tolerance Analysis Based on Description Logic. _Computer Integrated Manufacturing Systems_, 2015, 21(8): 2004-2013.
-- **Qin Y**, Lu W*, Liu X, Huang M, Zhou L, Jiang X. [Description logic-based automatic generation of geometric tolerance zones}(https://link.springer.com/article/10.1007/s00170-015-6839-2). _The International Journal of Advanced Manufacturing Technology_, 2015, 79: 1221-1237.
+- Zhong Y, Wang B*, Huang M, **Qin Y**, Wu S. Functional Tolerance Analysis Based on Description Logic. _Computer Integrated Manufacturing Systems_, 2015, 21(8): 2004-2013.
+- **Qin Y**, Lu W*, Liu X, Huang M, Zhou L, Jiang X. [Description logic-based automatic generation of geometric tolerance zones](https://link.springer.com/article/10.1007/s00170-015-6839-2). _The International Journal of Advanced Manufacturing Technology_, 2015, 79: 1221-1237.
 - Lu W, **Qin Y**, Liu X, Huang M*, Zhou L, Jiang X. [Enriching the semantics of variational geometric constraint data with ontology](https://www.sciencedirect.com/science/article/pii/S0010448515000020). _Computer-Aided Design_, 2015, 63: 72-85.
 - **Qin Y**, Lu W*, Qi Q, Liu X, Zhou L, Li T. [Ontology-based semantic interpretation of cylindricity specification in the next-generation GPS](https://www.sciencedirect.com/science/article/pii/S2212827115003169). _Procedia CIRP_, 2015, 27: 124-130.
 
