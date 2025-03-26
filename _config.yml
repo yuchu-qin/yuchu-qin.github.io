@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Yuchu Qin"
+title                    : "Yuchu's Website"
 title_separator          : "-"
 name                     : &name "Dr Yuchu Qin"
 description              : &description "Senior Research Fellow"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuchu Qin"
+  name             : "Dr Yuchu Qin"
   avatar           : "myprofile.JPG"
   bio              : "Senior Research Fellow"
   location         : 
