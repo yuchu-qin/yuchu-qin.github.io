@@ -1,24 +1,14 @@
 ---
-permalink: /biography/
+permalink: /experience/
 author_profile: true
 ---
 
+## Experience
+### Work Experience
+- 09/2024 – present: **Senior Research Fellow**, [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/), UK.
+- 06/2021 – 08/2024: **Research Fellow**, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), UK.
 
-
-## Biography
-
-### Work experience
-- 2023-present, Lecturer in Applied AI, University of Leeds
-- 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
-
-### Education
-- 2013-2019, Ph.D. in Computer Science (Machine Learning), University of Manchester
-- 2010-2013, Master in Software Engineering, University of Science and Technology of China
-- 2006-2010, Bachelor in Computer Science, Guilin University of Electronic Technology
-
-
-
-
-
-
-
+### Education Experience
+- 09/2023 – 06/2024: **PGC** in Higher Education, [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 10/2017 – 04/2021: **PhD** in Advanced Manufacturing and Precision Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 09/2013 – 09/2017: **PhD** in Measurement Technology and Instrument, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
