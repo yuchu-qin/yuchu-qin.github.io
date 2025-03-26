@@ -4,31 +4,28 @@ author_profile: true
 ---
 
 ## Biography
-I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), a Member of the [EPSRC](https://www.ukri.org/councils/epsrc/) Peer Review College, an Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals.
+I am a [Senior Research Fellow](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Research Fellow in June 2021 and promoted to a full-time Senior Research Fellow in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), a Member of the [EPSRC](https://www.ukri.org/councils/epsrc/) Peer Review College, an Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals.
 
 ## Experience
 ### Work Experience
-- 09/2024 – present: Senior Research Fellow, [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/), [University of Huddersfield](https://www.hud.ac.uk/), UK.
-- 06/2021 – 08/2024: Research Fellow, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 09/2024 – present: Senior Research Fellow, [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/), UK.
+- 06/2021 – 08/2024: Research Fellow, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), UK.
 
 ### Education Experience
-- 10/2017 – 04/2021: PhD in Advanced Manufacturing and Precision Engineering (Thesis: [Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing](https://eprints.hud.ac.uk/id/eprint/35529/)), [University of Huddersfield](https://www.hud.ac.uk/), UK.
-- 09/2013 – 09/2017: PhD in Measurement Technology and Instrument (Thesis: [Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm)), [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
+- 10/2017 – 04/2021: PhD in Advanced Manufacturing and Precision Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 09/2013 – 09/2017: PhD in Measurement Technology and Instrument, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
 
 ## Research
-- Mechanical Engineering: Design for additive manufacturing; Computer-aided tolerance design; Intelligent manufacturing; Product data representation; Product design, manufacturing, and measurement.
-- Computer Technologies: Artificial intelligence; Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
+- **Mechanical Engineering**: Design for additive manufacturing; Computer-aided tolerance design; Intelligent manufacturing; Product data representation; Product design, manufacturing, and measurement.
+- **Computer Technologies**: Artificial intelligence; Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
 
 ## Publications
+### Journal Papers (61)
 ### 2025
-- Tang Z, Jiao Y*, Huang M, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
 - **Qin Y**, Shi P, Lou S*, See TL, Jamal M, Zeng W, Blunt L, Scott PJ, Jiang X. [Data-driven optimisation of process parameters for reducing developed surface area ratio in laser powder bed fusion](https://link.springer.com/article/10.1007/s00170-025-15038-4). _The International Journal of Advanced Manufacturing Technology_, 2025, 136: 3821-3831.
 - Cui W, Lou S, Zeng W*, Kadirkamanathan V, **Qin Y**, Scott PJ, Jiang X. [BlurRes-UNet: A novel neural network for automated surface characterisation in metrology](https://www.sciencedirect.com/science/article/pii/S0166361524001568). _Computers in Industry_, 2025, 165: 104228.
 
 ### 2024
-- Li Q, Zhong Y, **Qin Y***. [MoCoKGC: Momentum Contrast Entity Encoding for Knowledge Graph Completion](https://aclanthology.org/2024.emnlp-main.832/). In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, ACL, 2024, pp. 14940-14952.
-- Yin K, Lou S*, **Qin Y**, Scott P, Jiang X. [Computer Vision-enhanced In-situ Surface Topography Measurement with Focus Variation Microscopy for Material Extrusion-based Additive Manufacturing](https://ieeexplore.ieee.org/document/10718829). In: _29th International Conference on Automation and Computing_, IEEE, 2024, pp. 1-6.
-- Liu W, Liu Y, Wang S, **Qin Y**, Zeng W, Lou S*. [Correlation of porosity and surface texture for additively manufactured parts: impact of build orientation, support structure and heat dissipation area](https://www.researchgate.net/profile/Weidong-Liu-15/publication/383422637_Correlation_of_porosity_and_surface_texture_for_additively_manufactured_parts_impact_of_build_orientation_support_structure_and_heat_dissipation_area/links/66cc83c1920e05672e506937/Correlation-of-porosity-and-surface-texture-for-additively-manufactured-parts-impact-of-build-orientation-support-structure-and-heat-dissipation-area.pdf). In: _2024 ASPE-euspen Summer Topical Meeting Advancing Precision in Additive Manufacturing_, ASPE, 2024, pp. 71-76.
 - Cui W, Lou S, Zeng W*, Kadirkamanathan V, **Qin Y**, Scott PJ, Jiang X. [Unlocking freeform structured surface denoising with small sample learning: Enhancing performance via physics-informed loss and detail-driven data augmentation](https://www.sciencedirect.com/science/article/pii/S1474034624003811). _Advanced Engineering Informatics_, 2024, 62: 102733.
 - **Qin Y**, Narasimharaju SR, Qi Q*, Lou S, Zeng W, Scott PJ, Jiang X. [Enriching Laser Powder Bed Fusion Part Data Using Category Theory](https://www.mdpi.com/2504-4494/8/4/130). _Journal of Manufacturing and Materials Processing_, 2024, 8(4): 130.
 - Ma L, Xu X, Cui C*, Lou S, **Qin Y**, Scott P, Zeng W. [Enhancing Ellipsometry Analysis with Whale Optimisation: A Novel Approach for Precise Material Characterisation](https://www.sciencedirect.com/science/article/pii/S2212827124011594). _Procedia CIRP_, 2024, 129: 127-132.
@@ -37,7 +34,6 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 ### 2023
 - Shi P, Qi Q*, **Qin Y**,Meng F, Lou S, Scott PJ, Jiang X. [Learn to Rotate: Part Orientation for Reducing Support Volume via Generalizable Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10054468). _IEEE Transactions on Industrial Informatics_, 2023, 19(12): 11687-11700.
 - **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [A multi-criterion three-way decision-making method under linguistic interval-valued intuitionistic fuzzy environment](https://link.springer.com/article/10.1007/s12652-022-04102-6). _Journal of Ambient Intelligence and Humanized Computing_, 2023, 14: 13915-13929.
-- Yin K, Lou S*, **Qin Y**, Xu Y, Scott P, Jiang X. [A Digital Twin Framework of In-Line Process Optimisation for Material Extrusion-Based Additive Manufacturing](https://link.springer.com/chapter/10.1007/978-3-031-49421-5_63). In: _Proceedings of the 2023 UNIfied Conference of DAMAS, IncoME and TEPEN Conferences_, Springer Nature, 2023, vol. 152, pp. 777-786.
 - Zhong Y, Lu Z, Li Y*, **Qin Y**, Huang M. [An Improved Interval-Valued Hesitant Fuzzy Weighted Geometric Operator for Multi-Criterion Decision-Making](https://www.mdpi.com/2227-7390/11/16/3561). _Mathematics_, 2023, 11(16): 3561.
 - **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [A Novel Weighted Averaging Operator of Linguistic Interval-Valued Intuitionistic Fuzzy Numbers for Cognitively Inspired Decision-Making](https://link.springer.com/article/10.1007/s12559-023-10167-y). _Cognitive Computation_, 2023, 15: 2101-2119.
 - Huang M, Jin S, Tang Z, Chen Y, **Qin Y***. [A Method for Predicting Surface Finish of Polylactic Acid Parts Printed Using Fused Deposition Modeling](https://www.mdpi.com/2227-9717/11/6/1820). _Processes_, 2023, 11(6): 1820.
@@ -71,7 +67,6 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 
 ### 2019
 - **Qin Y**, Cui X, Huang M*, Zhong Y, Tang Z, Shi P. [Archimedean Muirhead Aggregation Operators of q-Rung Orthopair Fuzzy Numbers for Multicriteria Group Decision Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/3103741). _Complexity_, 2019, 3103741.
-- Zhong Y, Guo X, Gao H, Huang M*, **Qin Y**, Luo X. [A new distance measure based on Pythagorean hesitant fuzzy sets and its application to multi-criteria decision making](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11321/113212M/A-new-distance-measure-based-on-Pythagorean-hesitant-fuzzy-sets/10.1117/12.2541318.full). In: _2019 International Conference on Image, Video Processing and Artificial Intelligence_, SPIE, 2019, vol. 11321, pp. 614-621.
 - Zhong Y, Guo X, Gao H, **Qin Y**, Huang M*, Luo X. [A new multi-criteria decision-making method based on Pythagorean hesitant fuzzy Archimedean Muirhead mean operators](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs190704). _Journal of Intelligent & Fuzzy Systems_, 2019, 37(4): 5551-5571.
 - Zhong Y, Gao H, Guo X, **Qin Y**, Huang M*, Luo X. [Dombi power partitioned Heronian mean operators of q-rung orthopair fuzzy numbers for multiple attribute group decision making](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222007). _Plos One_, 2019, 14(10): e0222007.
 - **Qin Y**, Qi Q*, Scott PJ, Jiang X. [Determination of optimal build orientation for additive manufacturing using Muirhead mean and prioritised average operators](https://link.springer.com/article/10.1007/s10845-019-01497-6). _Journal of Intelligent Manufacturing_, 2019, 30: 3015-3034.
@@ -80,7 +75,6 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Tang Z, Huang M*, Sun Y, Zhong Y, **Qin Y**. [Rapid evaluation of coaxiality of shaft parts based on double maximum material requirements](https://www.sciencedirect.com/science/article/pii/S0263224119307250). _Measurement_, 2019, 147: 106868.
 - Tang Z, Huang M*, Sun Y, Zhong Y, **Qin Y**, Huang J. [Coaxiality evaluation based on double material condition](https://www.sciencedirect.com/science/article/pii/S0263224119302891). _Measurement_, 2019, 141: 287-295.
 - **Qin Y**, Qi Q*, Scott PJ, Jiang X. [Status, comparison, and future of the representations of additive manufacturing data](https://www.sciencedirect.com/science/article/pii/S0010448518304202). _Computer-Aided Design_, 2019, 111: 44-64.
-- Zhong Y, Huang M, **Qin Y**. _Knowledge Base System for Electromechanical Product Customisation_. Science Press, 2019.
 
 ### 2018
 - Zhong Y, Jiang C*, **Qin Y**, Yang G, Huang M. Automatic Generation of Assembly Sequences Based on Ontology. _Computer Integrated Manufacturing Systems_, 2018, 24(6): 1345-1356.
@@ -112,11 +106,26 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - **Qin Y***, Zhong Y, Chang L, Huang M. Automatic Generation of Tolerance Types Based on Geometric Tolerance Description Logic. _Computer Integrated Manufacturing Systems_, 2013, 19(7): 1490-1499.
 - Zhong Y, **Qin Y***, Huang M, Zeng C. Tolerance RepresentationModel Based on Feature Surfaces and Spatial Relations. _Journal of Mechanical Engineering_, 2013, 49(11): 161-170.
 - Xie Y, Du Y, Zhong Y*, **Qin Y**. [Semantic Representation of Flatness Based on ALC(R) and Mathematical Definition](https://www.scientific.net/AMR.662.961). _Advanced Materials Research_, 2013, 662: 961-965.
-- Zhong Y, Huang M, **Qin Y**. _Knowledge Representation of Geometrical Product Specifications and Verification_. Xidian University Press, 2013.
 
 ### 2012
-- **Qin Y***, Zhong Y, Chang L, Huang M. [A Representation Model of Geometrical Tolerances Based on First Order Logic](https://link.springer.com/chapter/10.1007/978-3-642-32891-6_30). In: _7th International Conference on Intelligent Information Processing_, Springer Nature, 2012, vol. 385, pp. 234-239.
 - Xia X, Zhong Y*, **Qin Y**, Ji L. [Research on Operational Model of New-Generation GPS Based on Dynamic Description Logic](https://www.scientific.net/AMM.128-129.702). _Applied Mechanics and Materials_, 2012, 128: 702-705.
+
+### Conference Papers (7)
+- Tang Z, Jiao Y*, Huang M, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
+- Li Q, Zhong Y, **Qin Y***. [MoCoKGC: Momentum Contrast Entity Encoding for Knowledge Graph Completion](https://aclanthology.org/2024.emnlp-main.832/). In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, ACL, 2024, pp. 14940-14952.
+- Yin K, Lou S*, **Qin Y**, Scott P, Jiang X. [Computer Vision-enhanced In-situ Surface Topography Measurement with Focus Variation Microscopy for Material Extrusion-based Additive Manufacturing](https://ieeexplore.ieee.org/document/10718829). In: _29th International Conference on Automation and Computing_, IEEE, 2024, pp. 1-6.
+- Liu W, Liu Y, Wang S, **Qin Y**, Zeng W, Lou S*. [Correlation of porosity and surface texture for additively manufactured parts: impact of build orientation, support structure and heat dissipation area](https://www.researchgate.net/profile/Weidong-Liu-15/publication/383422637_Correlation_of_porosity_and_surface_texture_for_additively_manufactured_parts_impact_of_build_orientation_support_structure_and_heat_dissipation_area/links/66cc83c1920e05672e506937/Correlation-of-porosity-and-surface-texture-for-additively-manufactured-parts-impact-of-build-orientation-support-structure-and-heat-dissipation-area.pdf). In: _2024 ASPE-euspen Summer Topical Meeting Advancing Precision in Additive Manufacturing_, ASPE, 2024, pp. 71-76.
+- Yin K, Lou S*, **Qin Y**, Xu Y, Scott P, Jiang X. [A Digital Twin Framework of In-Line Process Optimisation for Material Extrusion-Based Additive Manufacturing](https://link.springer.com/chapter/10.1007/978-3-031-49421-5_63). In: _Proceedings of the 2023 UNIfied Conference of DAMAS, IncoME and TEPEN Conferences_, Springer Nature, 2023, vol. 152, pp. 777-786.
+- Zhong Y, Guo X, Gao H, Huang M*, **Qin Y**, Luo X. [A new distance measure based on Pythagorean hesitant fuzzy sets and its application to multi-criteria decision making](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11321/113212M/A-new-distance-measure-based-on-Pythagorean-hesitant-fuzzy-sets/10.1117/12.2541318.full). In: _2019 International Conference on Image, Video Processing and Artificial Intelligence_, SPIE, 2019, vol. 11321, pp. 614-621.
+- **Qin Y***, Zhong Y, Chang L, Huang M. [A Representation Model of Geometrical Tolerances Based on First Order Logic](https://link.springer.com/chapter/10.1007/978-3-642-32891-6_30). In: _7th International Conference on Intelligent Information Processing_, Springer Nature, 2012, vol. 385, pp. 234-239.
+
+### Academic Monographs (2)
+- Zhong Y, Huang M, **Qin Y**. _Knowledge Base System for Electromechanical Product Customisation_. Science Press, 2019.
+- Zhong Y, Huang M, **Qin Y**. _Knowledge Representation of Geometrical Product Specifications and Verification_. Xidian University Press, 2013.
+
+### Doctoral Theses (2)
+- **Qin Y**. [Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing](https://eprints.hud.ac.uk/id/eprint/35529/)). [University of Huddersfield](https://www.hud.ac.uk/), UK, 2021.
+- **Qin Y**. [Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm)). [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China, 2017.
 
 ## Teaching
 - 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
