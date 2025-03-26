@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Yuchu Qin"
+title                    : "Dr Yuchu Qin PhD, PhD, PGCHE, FHEA"
 title_separator          : "-"
 name                     : &name "Dr Yuchu Qin"
-description              : &description "Senior Researcher"
+description              : &description "Senior Research Fellow"
 url                      : https://yuchu-qin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuchu-qin/yuchu-qin.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Yuchu Qin"
   avatar           : "yuchu.jpg"
-  bio              : "Senior Researcher"
+  bio              : "Senior Research Fellow"
   location         : 
   employer         : "University of Huddersfield"
   pubmed           : 
