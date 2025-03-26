@@ -4,8 +4,9 @@ author_profile: true
 ---
 
 ## Biography
-
-I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), a Member of the [EPSRC](https://www.ukri.org/councils/epsrc/) Peer Review College, an Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals. 
+<p align="left">
+I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), a Member of the [EPSRC](https://www.ukri.org/councils/epsrc/) Peer Review College, an Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals.
+</p>
 
 ## Experience
 ### Work Experience
@@ -53,6 +54,13 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Li Z, Huang M, Zhong Y, **Qin Y***. [A Description Logic Based Ontology for Knowledge Representation in Process Planning for Laser Powder Bed Fusion](https://www.mdpi.com/2076-3417/12/9/4612). _Applied Sciences_, 2022, 12(9): 4612.
 - Zhong Y, Cao L, Zhang H, **Qin Y**, Huang M*, Luo X. [Hesitant fuzzy power Maclaurin symmetric mean operators in the framework of Dempster–Shafer theory for multiple criteria decision making](https://link.springer.com/article/10.1007/s12652-021-02932-4). _Journal of Ambient Intelligence and Humanized Computing_, 2022, 13: 1777-1797.
 - Shi P, Qi Q*, **Qin Y**, Scott PJ, Jiang X. [Highly interacting machining feature recognition via small sample learning](https://www.sciencedirect.com/science/article/pii/S073658452100140X). _Robotics and Computer-Integrated Manufacturing_, 2022, 73: 102260.
+
+### 2021
+- **Qin Y**, Cui X, Huang M*, Zhong Y, Tang Z, Shi P. [Multiple-attribute decision-making based on picture fuzzy Archimedean power Maclaurin symmetric mean operators](https://link.springer.com/article/10.1007/s41066-020-00228-0). _Granular Computing_, 2021, 6: 737-761.
+- Huang M, Chen L, Zhong Y, **Qin Y***. [A generic method for multi-criterion decision-making problems in design for additive manufacturing](https://link.springer.com/article/10.1007/s00170-021-06832-x). _The International Journal of Advanced Manufacturing Technology_, 2021, 115: 2083-2095.
+- **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [Status, issues, and future of computer-aided part orientation for additive manufacturing](https://link.springer.com/article/10.1007/s00170-021-06996-6). _The International Journal of Advanced Manufacturing Technology_, 2021, 115: 1295-1328.
+- Shi P, Qi Q*, **Qin Y**, Scott PJ, Jiang X. [Intersecting Machining Feature Localization and Recognition via Single Shot Multibox Detector](https://ieeexplore.ieee.org/document/9222288). _IEEE Transactions on Industrial Informatics_, 2021, 17(5): 3292-3302.
+- **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [Automatic determination of part build orientation for laser powder bed fusion](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832793). _Virtual and Physical Prototyping_, 2021, 16(1): 29-49.
 
 ## Teaching
 - 01/2025 – 04/2025: Lecturer and Tutor of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
