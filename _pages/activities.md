@@ -1,24 +1,61 @@
 ---
-permalink: /biography/
+permalink: /activities/
 author_profile: true
 ---
 
+## Activities
+### Professional Body Memberships
+- 01/2025 – present: **Member** of the [EPSRC Peer Review College](https://www.ukri.org/councils/epsrc/guidance-for-reviewers/peer-review-college/).
+- 08/2024 – present: **Fellow** of the [Higher Education Academy](https://www.advance-he.ac.uk/).
+- 10/2023 – 10/2024: **Organising Committee Member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
 
+### Academic Journal Editorships
+- 02/2025 – present: **Editorial Board Member** of [Global Journal of Industrial Management](https://ojs.sin-chn.com/index.php/GJIM).
+- 07/2024 – present: **Associate Editor** of [Advanced Equipment](https://www.elspub.com/journals/advanced-equipment/home/).
+- 06/2022 – 06/2023: **Guest Editor** of [Processes](https://www.mdpi.com/journal/processes), SI: [Application of Artificial Intelligence Techniques in Additive Manufacturing](https://www.mdpi.com/journal/processes/special_issues/Artificial_Intelligence_Manufacturing).
+- 10/2021 – present: **Editorial Board Member** of [International Journal of Additive-Manufactured Structures](https://www.innovationforever.com/Journals/IJAMS).
+- 01/2021 – 01/2023: **Editorial Board Member** of [Digital Manufacturing Technology](https://ojs.wiserpub.com/index.php/DMT/).
+- 12/2020 – present: **Reviewer Board Member** of [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp).
 
-## Biography
+### Funding Body Reviewerships
+- 03/2025 – present: **Expert Reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications.
+- 01/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) Funding Applications.
 
-### Work experience
-- 2023-present, Lecturer in Applied AI, University of Leeds
-- 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
+### Academic Journal Reviewerships
+- **Elsevier (20)**: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion); [Journal of Manufacturing Systems](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems); [Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing); [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration); [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems); [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics); [Sustainable Materials and Technologies](https://www.sciencedirect.com/journal/sustainable-materials-and-technologies); [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing); [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications); [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence); [Cleaner Logistics and Supply Chain](https://www.sciencedirect.com/journal/cleaner-logistics-and-supply-chain); [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling); [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal); [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation); [Waste Management](https://www.sciencedirect.com/journal/waste-management); [Journal of Computational and Applied Mathematics](https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics); [Heliyon](https://www.sciencedirect.com/journal/heliyon); [SoftwareX](https://www.sciencedirect.com/journal/softwarex); [Additive Manufacturing Letters](https://www.sciencedirect.com/journal/additive-manufacturing-letters); [Procedia CIRP](https://www.sciencedirect.com/journal/procedia-cirp).
+- **Springer (10)**: [Journal of Intelligent Manufacturing](https://link.springer.com/journal/10845); [The International Journal of Advanced Manufacturing Technology](https://link.springer.com/journal/170); [Computational and Applied Mathematics](https://link.springer.com/journal/40314); [International Journal of Machine Learning and Cybernetics](https://link.springer.com/journal/13042); [Granular Computing](https://link.springer.com/journal/41066); [Scientific Reports](https://www.nature.com/srep/); [Arabian Journal for Science and Engineering](https://link.springer.com/journal/13369); [Journal of Ambient Intelligence and Humanized Computing](https://link.springer.com/journal/12652); [Discover Data](https://link.springer.com/journal/44248); [Operations Research Forum](https://link.springer.com/journal/43069).
+- **IEEE (1)**: [IEEE Access](https://ieeeaccess.ieee.org/).
+- **WILEY (5)**: [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/ijis); [Advanced Engineering Materials](https://advanced.onlinelibrary.wiley.com/journal/15272648); [Complexity](https://onlinelibrary.wiley.com/journal/8503); [Journal of Mathematics](https://onlinelibrary.wiley.com/journal/1469); [Mathematical Problems in Engineering](https://onlinelibrary.wiley.com/journal/2629).
+- **SAGE (2)**: [Proc IMechE Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid); [Advances in Mechanical Engineering](https://journals.sagepub.com/home/ADE).
+- **T&F (7)**: [International Journal of Production Research](https://www.tandfonline.com/journals/tprs20); [Mechanics Based Design of Structures andMachines](https://www.tandfonline.com/journals/lmbd20); [Applied Artificial Intelligence](https://www.tandfonline.com/journals/uaai20); [Journal of Engineering Design](https://www.tandfonline.com/journals/cjen20); [Engineering Optimization](https://www.tandfonline.com/journals/geno20); [Cogent Mathematics & Statistics](https://www.tandfonline.com/journals/oama21); [Research in Mathematics](https://www.tandfonline.com/journals/oama23).
+- **Emerald (3)**: [Rapid Prototyping Journal](https://www.emerald.com/insight/publication/issn/1355-2546); [Assembly Automation](https://www.emerald.com/insight/publication/issn/0144-5154); [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k).
+- **IOS (1)**: [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems).
+- **WS (1)**: [International Journal of Information Technology & Decision Making](https://www.worldscientific.com/worldscinet/IJITDM?srsltid=AfmBOopoFUHXo6BsCmhAIvw3cr7SSRPaw5rCLOQ7F93CI6r-HX9Ragxn).
+- **AIMS (2)**: [AIMS Mathematics](https://www.aimspress.com/journal/Math); [Mathematical Biosciences and Engineering](https://www.aimspress.com/journal/mbe).
+- **MDPI (8)**: [Sustainability](https://www.mdpi.com/journal/sustainability); [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp); [Information](https://www.mdpi.com/journal/information); [Electronics](https://www.mdpi.com/journal/electronics); [Applied Sciences](https://www.mdpi.com/journal/applsci); [Symmetry](https://www.mdpi.com/journal/symmetry); [Mathematics](https://www.mdpi.com/journal/mathematics); [Axioms](https://www.mdpi.com/journal/axioms).
+- **PLOS (1)**: [Plos One](https://journals.plos.org/plosone/).
 
-### Education
-- 2013-2019, Ph.D. in Computer Science (Machine Learning), University of Manchester
-- 2010-2013, Master in Software Engineering, University of Science and Technology of China
-- 2006-2010, Bachelor in Computer Science, Guilin University of Electronic Technology
-
-
-
-
-
-
-
+### Oral Communication Activities
+- 04/12/2024: **Talk** on Artificial Intelligence: Historical Evolution, Representative Technologies, and Research Challenges, EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 20/11/2024: **Lecture** on Artificial Intelligence: History, Development, and Challenges, Liujiang Shiyan High School, Liuzhou, China.
+- 18/11/2024: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, School of Mechanical Engineering, [Wuhan University of Science and Technology](https://en.wust.edu.cn/), Wuhan, China.
+- 15/11/2024: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 14/11/2024: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, [Liuzhou Institute of Technology](https://www.lzhit.edu.cn/), Liuzhou, China.
+- 13/11/2024: **Lecture** on Artificial Intelligence: History, Development, and Challenges, Liujiang High School, Liuzhou, China.
+- 11/11/2024: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, School of System Design and Intelligent Manufacturing, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China.
+- 02/03/2023: **Talk** on Ontology, Multi-Objective Optimisation, Build Orientation Optimisation, and My Current Research Work, EPSRC Future Advanced Metrology Hub, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 24/10/2019: **Talk** on Towards Automatic Planning of Part Build Orientations for Additive Manufacturing, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 12/03/2019: **Lecture** on Decision-Making Methods for Additive Manufacturing Process Selection, Department of Computer Science, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 19/05/2018: **Talk** on Towards Intelligent Tolerance Specification: An Ontology-Based Methodology, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 19/01/2018: **Talk** on Towards Intelligent Tolerance Specification: An Ontology-Based Methodology, EPSRC Future Advanced Metrology Hub, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 06/10/2017: **Talk** on From Ontologies to Knowledge Graphs, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 28/11/2016: **Talk** on Ontology in Computer Science and its Application in Mechanical Engineering, EPSRC Centre for Innovative Manufacturing in Advanced Metrology, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 19/09/2016: **Talk** on Status, Comparison, and Issues of CAD Model Data Exchange Methods based on Standardised Neutral Files and Web Ontology Language File, EPSRC Centre for Innovative Manufacturing in Advanced Metrology, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 11/09/2015: **Talk** on Semantic Interoperability among Heterogeneous CAD Systems, EPSRC Centre for Innovative Manufacturing in Advanced Metrology, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
+- 28/08/2015: **Talk** on From Machine Learning to Deep Learning, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 25/02/2015: **Talk** on An Exchange Method of CAD Feature Data Semantics, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 30/01/2015: **Talk** on How to Do Academic Research and Write Academic Papers, Department of Instrument Science and Technology, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
+- 16/08/2014: **Talk** on Semantic Interoperability Between Heterogeneous CAD Systems Based on Ontology, School of Mechanical and Electrical Engineering, [Guilin University of Electronic Technology](https://www.guet.edu.cn/), Guilin, China.
+- 13/05/2014: **Presentation** on Ontology-Based Semantic Interpretation of Cylindricity Specification in Next-Generation GPS, [13th CIRP Conference on Computer Aided Tolerancing](https://www.sciencedirect.com/journal/procedia-cirp/vol/27/suppl/C), Hangzhou, China.
+- 20/09/2013: **Talk** on Automatic Generation of Assembly Tolerance Types Using an Ontology-Based Approach, Department of Instrument Science and Technology, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
+- 13/10/2012: **Presentation** on A Representation Model of Geometrical Tolerances Based on First Order Logic, [7th International Conference on Intelligent Information Processing](https://ifiptc12.org/component/rseventspro/event/10-7th-international-conference-on-intelligent-information-processing-iip-2012), Guilin, China.
