@@ -1,24 +1,10 @@
 ---
-permalink: /biography/
+permalink: /teaching/
 author_profile: true
 ---
 
-
-
-## Biography
-
-### Work experience
-- 2023-present, Lecturer in Applied AI, University of Leeds
-- 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
-
-### Education
-- 2013-2019, Ph.D. in Computer Science (Machine Learning), University of Manchester
-- 2010-2013, Master in Software Engineering, University of Science and Technology of China
-- 2006-2010, Bachelor in Computer Science, Guilin University of Electronic Technology
-
-
-
-
-
-
-
+## Teaching
+- 01/2025 – 04/2025: **Lecturer** and **Tutor** of the Matlab Sessions of Professional Development (11 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
+- 01/2025 – 04/2025: **Lecturer** and **Tutor** of the Matlab Sessions of Professional Development and Transferrable Skills (95 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
+- 01/2024 – 04/2024: **Lecturer** and **Tutor** of the Matlab Sessions of Professional Development and Transferrable Skills (66 undergraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
+- 09/2023 – 12/2023: **Tutor** of the Practical Sessions of Data Mining (203 postgraduates at the [University of Huddersfield](https://www.hud.ac.uk/)).
