@@ -4,9 +4,7 @@ author_profile: true
 ---
 
 ## Biography
-<div style="text-align: left;">
 I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geometrical Product Design, Manufacturing, and Measurement with the [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/). I hold a BEng and an MEng in Computer Science and two PhDs in Mechanical Engineering. I was appointed as a full-time Researcher in June 2021 and promoted to a full-time Senior Researcher in September 2024. I have engaged in teaching undergraduate and master’s students and supervising/co-supervising PhD students since September 2023. I have authored/co-authored 60+ journal papers (including 30+ first-author journal papers). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/), a Member of the [EPSRC](https://www.ukri.org/councils/epsrc/) Peer Review College, an Expert Reviewer of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications, an Editorial Team Member for 6 journals, and a Peer Reviewer for 60+ journals.
-</div>
 
 ## Experience
 ### Work Experience
@@ -69,7 +67,7 @@ I am a [Senior Researcher](https://pure.hud.ac.uk/en/persons/yuchu-qin) in Geome
 - Shi P, Qi Q*, **Qin Y**, Scott PJ, Jiang X. [A novel learning-based feature recognition method using multiple sectional view representation](https://link.springer.com/article/10.1007/s10845-020-01533-w). _Journal of Intelligent Manufacturing_, 2020, 31: 1291-1309.
 - **Qin Y**, Qi Q, Scott PJ*, Jiang X. [An additive manufacturing process selection approach based on fuzzy Archimedean weighted power Bonferroni aggregation operators](https://www.sciencedirect.com/science/article/pii/S0736584518305945). _Robotics and Computer-Integrated Manufacturing_, 2020, 64: 101926.
 - **Qin Y**, Qi Q*, Scott PJ, Jiang X. [Multiple criteria decision making based on weighted Archimedean power partitioned Bonferroni aggregation operators of generalised orthopair membership grades](https://link.springer.com/article/10.1007/s00500-020-04676-3). _Soft Computing_, 2020, 24: 12329-12355.
-- **Qin Y**, Cui X,Huang M*, Zhong Y, Tang Z, Shi P. [Linguistic Interval-Valued Intuitionistic Fuzzy Archimedean Power Muirhead Mean Operators for Multiattribute Group Decision-Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2373762). _Complexity_, 2020, 2373762.#
+- **Qin Y**, Cui X,Huang M*, Zhong Y, Tang Z, Shi P. [Linguistic Interval-Valued Intuitionistic Fuzzy Archimedean Power Muirhead Mean Operators for Multiattribute Group Decision-Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2373762). _Complexity_, 2020, 2373762.
 
 ### 2019
 - **Qin Y**, Cui X, Huang M*, Zhong Y, Tang Z, Shi P. [Archimedean Muirhead Aggregation Operators of q-Rung Orthopair Fuzzy Numbers for Multicriteria Group Decision Making](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/3103741). _Complexity_, 2019, 3103741.
