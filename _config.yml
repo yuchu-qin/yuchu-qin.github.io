@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Yuchu Qin PhD, PhD, PGCHE, FHEA"
+title                    : "Dr Yuchu Qin"
 title_separator          : "-"
 name                     : &name "Dr Yuchu Qin"
 description              : &description "Senior Research Fellow"
@@ -88,7 +88,7 @@ author:
   avatar           : "myprofile.JPG"
   bio              : "Senior Research Fellow"
   location         : 
-  employer         : "https://pure.hud.ac.uk/en/persons/yuchu-qin"
+  employer         : "University of Huddersfield"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hFWFwUgAAAAJ&hl=en"
   email            : "y.qin@hud.ac.uk"
