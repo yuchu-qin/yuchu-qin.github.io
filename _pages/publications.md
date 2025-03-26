@@ -108,5 +108,5 @@ author_profile: true
 - Zhong Y, Huang M, **Qin Y**. _Knowledge Representation of Geometrical Product Specifications and Verification_. Xidian University Press, 2013.
 
 ### Doctoral Dissertations (2)
-- **Qin Y**. [_Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing_](https://eprints.hud.ac.uk/id/eprint/35529/). [University of Huddersfield](https://www.hud.ac.uk/), UK, 2021.
-- **Qin Y**. [_Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology_](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm). [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China, 2017.
+- **Qin Y**. [_Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing_](https://eprints.hud.ac.uk/id/eprint/35529/). University of Huddersfield, UK, 2021.
+- **Qin Y**. [_Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology_](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm). Huazhong University of Science and Technology, China, 2017.
