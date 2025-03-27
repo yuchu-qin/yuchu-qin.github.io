@@ -9,5 +9,4 @@ author_profile: true
 - **Computer Technologies**: Artificial intelligence; Machine learning; Computational intelligence; Optimisation; Decision analysis; Ontology; Knowledge graph; Fuzzy sets; Aggregation operators; Category theory.
 
 ### Research Funding
-- XXXXXX
-- XXXXXX
+- To be added.
