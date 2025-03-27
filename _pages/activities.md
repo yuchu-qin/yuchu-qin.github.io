@@ -9,6 +9,10 @@ author_profile: true
 - 08/2024 – present: **Fellow** of the [Higher Education Academy](https://www.advance-he.ac.uk/).
 - 10/2023 – 10/2024: **Organising Committee Member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
 
+### Funding Body Reviewerships
+- 03/2025 – present: **Expert Reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications.
+- 01/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) Funding Applications.
+
 ### Academic Journal Editorships
 - 02/2025 – present: **Editorial Board Member** of [Global Journal of Industrial Management](https://ojs.sin-chn.com/index.php/GJIM).
 - 07/2024 – present: **Associate Editor** of [Advanced Equipment](https://www.elspub.com/journals/advanced-equipment/home/).
@@ -16,10 +20,6 @@ author_profile: true
 - 10/2021 – present: **Editorial Board Member** of [International Journal of Additive-Manufactured Structures](https://www.innovationforever.com/Journals/IJAMS).
 - 01/2021 – 01/2023: **Editorial Board Member** of [Digital Manufacturing Technology](https://ojs.wiserpub.com/index.php/DMT/).
 - 12/2020 – present: **Reviewer Board Member** of [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp).
-
-### Funding Body Reviewerships
-- 03/2025 – present: **Expert Reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications.
-- 01/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) Funding Applications.
 
 ### Academic Journal Reviewerships
 - **Elsevier (20)**: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion); [Journal of Manufacturing Systems](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems); [Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing); [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration); [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems); [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics); [Sustainable Materials and Technologies](https://www.sciencedirect.com/journal/sustainable-materials-and-technologies); [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing); [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications); [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence); [Cleaner Logistics and Supply Chain](https://www.sciencedirect.com/journal/cleaner-logistics-and-supply-chain); [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling); [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal); [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation); [Waste Management](https://www.sciencedirect.com/journal/waste-management); [Journal of Computational and Applied Mathematics](https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics); [Heliyon](https://www.sciencedirect.com/journal/heliyon); [SoftwareX](https://www.sciencedirect.com/journal/softwarex); [Additive Manufacturing Letters](https://www.sciencedirect.com/journal/additive-manufacturing-letters); [Procedia CIRP](https://www.sciencedirect.com/journal/procedia-cirp).
