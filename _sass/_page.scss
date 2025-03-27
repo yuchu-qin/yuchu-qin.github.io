@@ -53,7 +53,7 @@
 
 .page__content {
 
-  text-align: justify;
+  text-align: left;
 
   ul {
     padding-left: 1em;
@@ -199,7 +199,7 @@
   font-family: $caption-font-family;
   font-size: $type-size-7;
   background: #000;
-  text-align: right;
+  text-align: left;
   z-index: 5;
   opacity: 0.5;
   border-radius: $border-radius 0 $border-radius 0;
