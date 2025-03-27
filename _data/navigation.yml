@@ -2,7 +2,7 @@
 main:
   
   - title: "Biography"
-    url: /biography.html
+    url: /biography/
 
   - title: "Experience"
     url: /experience/
