@@ -16,7 +16,7 @@ author_profile: true
 - **Qin Y**, Lou S*, Shi P, Qi Q, Zeng W, Scott PJ, Jiang X. [Optimisation of process parameters for improving surface quality in laser powder bed fusion](https://link.springer.com/article/10.1007/s00170-023-12826-8). _The International Journal of Advanced Manufacturing Technology_, 2024, 130: 2833-2845.
 
 ### 2023 (9):
-- Shi P, Qi Q*, **Qin Y**,Meng F, Lou S, Scott PJ, Jiang X. [Learn to Rotate: Part Orientation for Reducing Support Volume via Generalizable Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10054468). _IEEE Transactions on Industrial Informatics_, 2023, 19(12): 11687-11700.
+- Shi P, Qi Q*, **Qin Y**, Meng F, Lou S, Scott PJ, Jiang X. [Learn to Rotate: Part Orientation for Reducing Support Volume via Generalizable Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10054468). _IEEE Transactions on Industrial Informatics_, 2023, 19(12): 11687-11700.
 - **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [A multi-criterion three-way decision-making method under linguistic interval-valued intuitionistic fuzzy environment](https://link.springer.com/article/10.1007/s12652-022-04102-6). _Journal of Ambient Intelligence and Humanized Computing_, 2023, 14: 13915-13929.
 - Zhong Y, Lu Z, Li Y*, **Qin Y**, Huang M. [An Improved Interval-Valued Hesitant Fuzzy Weighted Geometric Operator for Multi-Criterion Decision-Making](https://www.mdpi.com/2227-7390/11/16/3561). _Mathematics_, 2023, 11(16): 3561.
 - **Qin Y**, Qi Q*, Shi P, Scott PJ, Jiang X. [A Novel Weighted Averaging Operator of Linguistic Interval-Valued Intuitionistic Fuzzy Numbers for Cognitively Inspired Decision-Making](https://link.springer.com/article/10.1007/s12559-023-10167-y). _Cognitive Computation_, 2023, 15: 2101-2119.
@@ -108,5 +108,5 @@ author_profile: true
 - Zhong Y, Huang M, **Qin Y**. _Knowledge Representation of Geometrical Product Specifications and Verification_. Xidian University Press, 2013.
 
 ### Doctoral Dissertations (2)
-- **Qin Y**. [_Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing_](https://eprints.hud.ac.uk/id/eprint/35529/). University of Huddersfield, UK, 2021.
-- **Qin Y**. [_Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology_](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm). Huazhong University of Science and Technology, China, 2017.
+- **Qin Y**. [_Automatic Determination of Part Build Orientation for Laser Powder Bed Fusion Additive Manufacturing_](https://eprints.hud.ac.uk/id/eprint/35529/). University of Huddersfield, 2021.
+- **Qin Y**. [_Towards Intelligent Design of Tolerance Specifications: An Ontology-Based Methodology_](https://cdmd.cnki.com.cn/Article/CDMD-10487-1018784432.htm). Huazhong University of Science and Technology, 2017.
