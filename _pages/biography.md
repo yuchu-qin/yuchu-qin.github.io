@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /biography/
 author_profile: true
 ---
 
