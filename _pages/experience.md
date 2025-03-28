@@ -10,5 +10,5 @@ author_profile: true
 
 ### Education Experience
 - 09/2023 – 06/2024: **PGC** in Higher Education, [University of Huddersfield](https://www.hud.ac.uk/), UK.
-- 10/2017 – 04/2021: **PhD** in Advanced Manufacturing and Precision Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK.
-- 09/2013 – 09/2017: **PhD** in Measurement Technology and Instrument, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
+- 10/2017 – 04/2021: **PhD** in Mechanical Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 09/2013 – 09/2017: **PhD** in Instrument Science and Technology, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
