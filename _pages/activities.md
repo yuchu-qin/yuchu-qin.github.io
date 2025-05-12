@@ -12,7 +12,6 @@ author_profile: true
 ### Funding Body Reviewerships
 - 03/2025 – present: **Expert Reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) Funding Applications.
 - 01/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) Funding Applications.
-- 11/2022 – present: **Review Expert** of [NSFC](https://www.nsfc.gov.cn/english/site_1/index.html) General Program Applications.
 
 ### Academic Journal Editorships
 - 02/2025 – present: **Editorial Board Member** of [Global Journal of Industrial Management](https://ojs.sin-chn.com/index.php/GJIM).
