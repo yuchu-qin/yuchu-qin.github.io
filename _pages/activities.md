@@ -5,6 +5,7 @@ author_profile: true
 
 ## Activities
 ### Professional Body Memberships
+- 27/05/2025: **Session Chair** of the [16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default).
 - 01/2025 – present: **Member** of the [EPSRC Peer Review College](https://www.ukri.org/councils/epsrc/guidance-for-reviewers/peer-review-college/).
 - 08/2024 – present: **Fellow** of the [Higher Education Academy](https://www.advance-he.ac.uk/).
 - 10/2023 – 10/2024: **Organising Committee Member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
@@ -37,6 +38,9 @@ author_profile: true
 - **PLOS (1)**: [Plos One](https://journals.plos.org/plosone/).
 
 ### Oral Communication Activities
+- 28/05/2025: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, School of Electronic Information and Electrical Engineering, [Yangtze University](https://english.yangtzeu.edu.cn/), Jingzhou, China.
+- 26/05/2025: **Presentation** on Abstracting Prediction of Surface Roughness in Laser Powder Bed Fusion Using Logical Reasoning and Category Theory,
+[16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default), Wuhan, China.
 - 04/12/2024: **Talk** on Artificial Intelligence: Historical Evolution, Representative Technologies, and Research Challenges, EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing, [University of Huddersfield](https://www.hud.ac.uk/), Huddersfield, UK.
 - 20/11/2024: **Lecture** on Artificial Intelligence: History, Development, and Challenges, Liujiang Shiyan High School, Liuzhou, China.
 - 18/11/2024: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, School of Mechanical Engineering, [Wuhan University of Science and Technology](https://en.wust.edu.cn/), Wuhan, China.
