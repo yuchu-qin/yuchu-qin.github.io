@@ -5,9 +5,9 @@ author_profile: true
 
 ## Experience
 ### Work Experience
-- 06/2025 – present: **Senior Lecturer (Equivalent)**, [University of Huddersfield](https://www.hud.ac.uk/), UK.
-- 09/2024 – 05/2025: **Senior Research Fellow**, [EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing](https://research.hud.ac.uk/institutes-centres/cpt/), UK.
-- 06/2021 – 08/2024: **Research Fellow**, [EPSRC Future Advanced Metrology Hub](https://research.hud.ac.uk/institutes-centres/cpt/), UK.
+- 06/2025 – present: **Senior Lecturer (Equivalent)**, School of Computing and Engineering, [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 09/2024 – 05/2025: **Senior Research Fellow**, EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing, [University of Huddersfield](https://www.hud.ac.uk/), UK.
+- 06/2021 – 08/2024: **Research Fellow**, EPSRC Future Advanced Metrology Hub, [University of Huddersfield](https://www.hud.ac.uk/), UK.
 
 ### Education Experience
 - 09/2023 – 06/2024: **PGC** in Higher Education, [University of Huddersfield](https://www.hud.ac.uk/), UK.
