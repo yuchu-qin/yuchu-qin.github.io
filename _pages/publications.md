@@ -4,8 +4,9 @@ author_profile: true
 ---
 
 ## Publications
-### Journal Papers (61)
-### 2025 (2):
+### Journal Papers (62)
+### 2025 (3):
+- Yin K, **Qin Y**, Lou S*, Scott P, Jiang X. [A deep learning-enhanced in-situ surface topography measurement method based on the focus variation microscopy and the industrial camera for material extrusion-based additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0141635925002004). _Precision Engineering_, 2025, 96: 464-475.
 - **Qin Y**, Shi P, Lou S*, See TL, Jamal M, Zeng W, Blunt L, Scott PJ, Jiang X. [Data-driven optimisation of process parameters for reducing developed surface area ratio in laser powder bed fusion](https://link.springer.com/article/10.1007/s00170-025-15038-4). _The International Journal of Advanced Manufacturing Technology_, 2025, 136: 3821-3831.
 - Cui W, Lou S, Zeng W*, Kadirkamanathan V, **Qin Y**, Scott PJ, Jiang X. [BlurRes-UNet: A novel neural network for automated surface characterisation in metrology](https://www.sciencedirect.com/science/article/pii/S0166361524001568). _Computers in Industry_, 2025, 165: 104228.
 
