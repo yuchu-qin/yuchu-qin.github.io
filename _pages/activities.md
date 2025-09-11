@@ -38,6 +38,7 @@ author_profile: true
 - **PLOS (1)**: [Plos One](https://journals.plos.org/plosone/).
 
 ### Oral Communication Activities
+- 11/09/2025: **Presentation** on Optimisation of Controllable Variables for Improving Part Quality in Laser Powder Bed Fusion, [22nd International Conference on Manufacturing Research](https://uobevents.eventsair.com/icmr2025/), Birmingham, UK.
 - 28/05/2025: **Lecture** on Artificial Intelligence in Geometrical Product Design, Manufacturing, and Measurement, School of Electronic Information and Electrical Engineering, [Yangtze University](https://english.yangtzeu.edu.cn/), Jingzhou, China.
 - 26/05/2025: **Presentation** on Abstracting Prediction of Surface Roughness in Laser Powder Bed Fusion Using Logical Reasoning and Category Theory,
 [16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default), Wuhan, China.
