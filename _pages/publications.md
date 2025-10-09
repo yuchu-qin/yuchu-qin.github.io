@@ -95,7 +95,9 @@ author_profile: true
 ### 2012 (1):
 - Xia X, Zhong Y*, **Qin Y**, Ji L. [Research on Operational Model of New-Generation GPS Based on Dynamic Description Logic](https://www.scientific.net/AMM.128-129.702). _Applied Mechanics and Materials_, 2012, 128: 702-705.
 
-### Conference Papers (7)
+### Conference Papers (9)
+- **Qin Y***, Liu W, Li T, Lou S, Scott PJ, Jiang X. Data-driven multi-objective optimisation of build orientation of parts with internal channels manufactured by laser powder bed fusion. In: _Proceedings of the 22nd International Conference on Manufacturing Research_, Springer, 2025, pp. 1-6. 
+- **Qin Y***, Lou S, Li T, Zeng W, Scott PJ, Jiang X. Abstracting prediction of surface roughness in laser powder bed fusion using logical reasoning and category theory. In: _Proceedings of the 16th International Symposium on Measurement Technology and Intelligent Instruments_, Springer, 2025, pp. 1-5.
 - Tang Z, Jiao Y*, Huang M, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
 - Li Q, Zhong Y, **Qin Y***. [MoCoKGC: Momentum Contrast Entity Encoding for Knowledge Graph Completion](https://aclanthology.org/2024.emnlp-main.832/). In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, ACL, 2024, pp. 14940-14952.
 - Yin K, Lou S*, **Qin Y**, Scott P, Jiang X. [Computer Vision-enhanced In-situ Surface Topography Measurement with Focus Variation Microscopy for Material Extrusion-based Additive Manufacturing](https://ieeexplore.ieee.org/document/10718829). In: _29th International Conference on Automation and Computing_, IEEE, 2024, pp. 1-6.
