@@ -11,8 +11,8 @@ author_profile: true
 - 10/2023 – 10/2024: **Organising Committee Member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
 
 ### Funding Body Reviewerships
+- 10/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) funding applications.
 - 03/2025 – present: **Expert Reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) funding applications.
-- 01/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) funding applications.
 - 11/2022 – present: **Review Expert** of funding applications from an international funding body.
 
 ### Academic Journal Editorships
