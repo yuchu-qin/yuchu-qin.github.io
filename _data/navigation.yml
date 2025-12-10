@@ -13,11 +13,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Supervision"
-    url: /supervision/
+  - title: "Education"
+    url: /education/
 
   - title: "Communications"
     url: /communications/
