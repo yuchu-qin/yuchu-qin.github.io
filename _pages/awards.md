@@ -1,5 +1,5 @@
 ---
-permalink: /awards/
+permalink: /service/
 author_profile: true
 ---
 
