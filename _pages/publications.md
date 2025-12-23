@@ -28,11 +28,10 @@ author_profile: true
 - **Qin Y**, Qi Q*, Shi P, Lou S, Scott PJ, Jiang X. [Multi-Attribute Decision-Making Methods in Additive Manufacturing: The State of the Art](https://www.mdpi.com/2227-9717/11/2/497). _Processes_, 2023, 11(2): 497.
 - Zhong Y, Zhang H, Cao L, Li Y*, **Qin Y**, Luo X. [Power Muirhead mean operators of interval-valued intuitionistic fuzzy values in the framework of Dempster–Shafer theory for multiple criteria decision-making](https://link.springer.com/article/10.1007/s00500-022-07595-7). _Soft Computing_, 2023, 27: 763-782.
 
-### 2022 (5):
+### 2022 (4):
 - Huang M, Zheng N, **Qin Y***, Tang Z, Zhang H, Fan B, Qin L. [Description Logic Ontology-Supported Part Orientation for Fused Deposition Modelling](https://www.mdpi.com/2227-9717/10/7/1290). _Processes_, 2022, 10(7): 1290.
 - Qin L, Huang M, Tang Z*, Zhong Y, **Qin Y**, Liu T. Coaxiality Evaluation Method of Shaft Parts for Double Least Material Requirements. _Journal of Mechanical Engineering_, 58(9): 231-243.
 - Li Z, Huang M, Zhong Y, **Qin Y***. [A Description Logic Based Ontology for Knowledge Representation in Process Planning for Laser Powder Bed Fusion](https://www.mdpi.com/2076-3417/12/9/4612). _Applied Sciences_, 2022, 12(9): 4612.
-- Zhong Y, Cao L, Zhang H, **Qin Y**, Huang M*, Luo X. [Hesitant fuzzy power Maclaurin symmetric mean operators in the framework of Dempster–Shafer theory for multiple criteria decision making](https://link.springer.com/article/10.1007/s12652-021-02932-4). _Journal of Ambient Intelligence and Humanized Computing_, 2022, 13: 1777-1797.
 - Shi P, Qi Q*, **Qin Y**, Scott PJ, Jiang X. [Highly interacting machining feature recognition via small sample learning](https://www.sciencedirect.com/science/article/pii/S073658452100140X). _Robotics and Computer-Integrated Manufacturing_, 2022, 73: 102260.
 
 ### 2021 (5):
