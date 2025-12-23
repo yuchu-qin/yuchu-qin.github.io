@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 ## Publications
-### Journal Papers (63)
+### Journal Papers (62)
 ### 2025 (4):
 - Feng W*, Xu J, Ni H, Wu H, **Qin Y**, Xu Y, Gao F, Jiang X. [Large-area specular highlight removal based on disparity layering and multi-strategy hierarchical restoration with light field camera arrays](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-25-52250). _Optics Express_, 2025, 33(25): 52250-52273.
 - Yin K, **Qin Y**, Lou S*, Scott P, Jiang X. [A deep learning-enhanced in-situ surface topography measurement method based on the focus variation microscopy and the industrial camera for material extrusion-based additive manufacturing](https://www.sciencedirect.com/science/article/pii/S0141635925002004). _Precision Engineering_, 2025, 96: 464-475.
