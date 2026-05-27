@@ -38,5 +38,6 @@ author_profile: true
 - **PLOS (1)**: [Plos One](https://journals.plos.org/plosone/).
 
 ### Academic Conference Service
+- 20/05/2026: **Session Chair** of the Early Career Researcher Symposium of the EPSRC Future AdvancedMetrology Hub for Sustainable Manufacturing.
 - 27/05/2025: **Session Chair** of the [16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default).
 - 10/2023 – 10/2024: **Organising Committee Member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
