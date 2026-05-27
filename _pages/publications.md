@@ -4,8 +4,11 @@ author_profile: true
 ---
 
 ## Publications
-### Journal Papers (63)
-### 2026 (1):
+### Journal Papers (66)
+### 2026 (4):
+- Shi P*, **Qin Y**, Meng F, Scott PJ, Jiang X. [Machine learning in feature recognition for manufacturing: taxonomy, analytical review, comparisons, trends, challenges, and outlook](https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2675460). _International Journal of Production Research_, 2026, doi: 10.1080/00207543.2026.2675460.
+- Tang Z, Chen R, Huang M*, **Qin Y**, Zhong Y, Qin L. [A linear virtual gauge method for Dual MMR based coaxiality of shafts](https://www.sciencedirect.com/science/article/pii/S0263224126016209). _Measurement_, 2026, 281: 121911.
+- Xiong J, Su T, Chen X, Zhang Z*, ZengW, Zhang Z, Lou S, ZhongW, **Qin Y**, Scott PJ, Jiang X. [Mechanism-data fusion for quantitative prediction of transmitted wavefront error in multi-point bonded optics](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-7-13545). _Optics Express_, 2026, 34(7): 13545-13563.
 - Xiong J, Su T, Chen X, Zhang Z*, Zeng W, Lou S, **Qin Y**, Zhong W, Scott PJ, Jiang X. [Influence of Adhesive Bonding on the Surface Accuracy of Flat Optics: A Mechanistic Analysis and a Quantitative Approximation](https://www.mdpi.com/2304-6732/13/2/166). _Photonics_, 2026, 13(2): 166.
 
 ### 2025 (4):
