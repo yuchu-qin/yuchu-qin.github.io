@@ -4,8 +4,10 @@ author_profile: true
 ---
 
 ## Communications
-### Conference Presentations (4)
-- 11/09/2025: Optimisation of Controllable Variables for Improving Part Quality in Laser Powder Bed Fusion, [22nd International Conference on Manufacturing Research](https://uobevents.eventsair.com/icmr2025/), Birmingham, UK.
+### Conference Presentations (5)
+- 20/05/2026: Integration in Additive Manufacturing Digital Thread: A Category-Theoretic Framework, Early Career Researcher Symposium of the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing,
+University of Oxford, Oxford, UK.
+- 11/09/2025: Optimisation of Controllable Variables for Improving Part Quality in Laser Powder Bed Fusion, [22nd International Conference on Manufacturing Research](https://uobevents.eventsair.com/icmr2025/), University of Birmingham, Birmingham, UK.
 - 26/05/2025: Abstracting Prediction of Surface Roughness in Laser Powder Bed Fusion Using Logical Reasoning and Category Theory,
 [16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default), Wuhan, China.
 - 13/05/2014: Ontology-Based Semantic Interpretation of Cylindricity Specification in Next-Generation GPS, [13th CIRP Conference on Computer Aided Tolerancing](https://www.sciencedirect.com/journal/procedia-cirp/vol/27/suppl/C), Hangzhou, China.
