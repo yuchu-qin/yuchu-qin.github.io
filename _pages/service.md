@@ -9,18 +9,18 @@ author_profile: true
 - 08/2024 – present: **Fellow** of the [Higher Education Academy](https://www.advance-he.ac.uk/).
 
 ### Funding Body Service
-- 10/2025 – present: **Expert Reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) funding applications.
-- 03/2025 – present: **Expert Reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) funding applications.
-- 11/2022 – present: **Review Expert** of funding applications from an international funding body.
+- 10/2025 – present: **Expert reviewer** of [EPSRC](https://www.ukri.org/councils/epsrc/) funding applications.
+- 03/2025 – present: **Expert reviewer** of [AHRC](https://www.ukri.org/councils/ahrc/) funding applications.
+- 11/2022 – present: **Review expert** of funding applications from an international funding body.
 
 ### Academic Journal Service
 ### Editorships
-- 02/2025 – present: **Editorial Board Member** of [Global Journal of Industrial Management](https://ojs.sin-chn.com/index.php/GJIM).
-- 07/2024 – present: **Associate Editor** of [Advanced Equipment](https://www.elspub.com/journals/advanced-equipment/home/).
-- 06/2022 – 06/2023: **Guest Editor** of [Processes](https://www.mdpi.com/journal/processes), SI: [Application of Artificial Intelligence Techniques in Additive Manufacturing](https://www.mdpi.com/journal/processes/special_issues/Artificial_Intelligence_Manufacturing).
-- 10/2021 – present: **Editorial Board Member** of [International Journal of Additive-Manufactured Structures](https://www.innovationforever.com/Journals/IJAMS).
-- 01/2021 – 01/2023: **Editorial Board Member** of [Digital Manufacturing Technology](https://ojs.wiserpub.com/index.php/DMT/).
-- 12/2020 – present: **Reviewer Board Member** of [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp).
+- 02/2025 – present: **Editorial board member** of [Global Journal of Industrial Management](https://ojs.sin-chn.com/index.php/GJIM).
+- 07/2024 – present: **Associate editor** of [Advanced Equipment](https://www.elspub.com/journals/advanced-equipment/home/).
+- 06/2022 – 06/2023: **Guest editor** of [Processes](https://www.mdpi.com/journal/processes), SI: [Application of Artificial Intelligence Techniques in Additive Manufacturing](https://www.mdpi.com/journal/processes/special_issues/Artificial_Intelligence_Manufacturing).
+- 10/2021 – present: **Editorial board member** of [International Journal of Additive-Manufactured Structures](https://www.innovationforever.com/Journals/IJAMS).
+- 01/2021 – 01/2023: **Editorial board member** of [Digital Manufacturing Technology](https://ojs.wiserpub.com/index.php/DMT/).
+- 12/2020 – present: **Reviewer board member** of [Journal of Manufacturing and Materials Processing](https://www.mdpi.com/journal/jmmp).
 
 ### Reviewerships
 - **Elsevier (30)**: [Information Fusion](https://www.sciencedirect.com/journal/information-fusion); [Journal of Manufacturing Systems](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems); [Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing); [Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes); [Materials & Design](https://www.sciencedirect.com/journal/materials-and-design); [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration); [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems); [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics); [Sustainable Materials and Technologies](https://www.sciencedirect.com/journal/sustainable-materials-and-technologies); [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing); [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications); [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence); [Composites Part B: Engineering](https://www.sciencedirect.com/journal/composites-part-b-engineering); [Measurement](https://www.sciencedirect.com/journal/measurement); [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering); [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering); [Cleaner Logistics and Supply Chain](https://www.sciencedirect.com/journal/cleaner-logistics-and-supply-chain); [Applied Mathematical Modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling); [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal); [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation); [Waste Management](https://www.sciencedirect.com/journal/waste-management); [Journal of Computational and Applied Mathematics](https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics); [Chemometrics and Intelligent Laboratory Systems](https://www.sciencedirect.com/journal/chemometrics-and-intelligent-laboratory-systems); [International Journal of Critical Infrastructure Protection](https://www.sciencedirect.com/journal/international-journal-of-critical-infrastructure-protection); [Resources Policy](https://www.sciencedirect.com/journal/resources-policy); [Heliyon](https://www.sciencedirect.com/journal/heliyon); [SoftwareX](https://www.sciencedirect.com/journal/softwarex); [Additive Manufacturing Letters](https://www.sciencedirect.com/journal/additive-manufacturing-letters); [Manufacturing Letters](https://www.sciencedirect.com/journal/manufacturing-letters); [Procedia CIRP](https://www.sciencedirect.com/journal/procedia-cirp).
@@ -38,6 +38,6 @@ author_profile: true
 - **PLOS (1)**: [Plos One](https://journals.plos.org/plosone/).
 
 ### Academic Conference Service
-- 20/05/2026: **Session Chair** of the Early Career Researcher Symposium of the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing.
-- 27/05/2025: **Session Chair** of the [16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default).
-- 10/2023 – 10/2024: **Organising Committee Member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
+- 20/05/2026: **Session chair** of the Early Career Researcher Symposium of the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing.
+- 27/05/2025: **Session chair** of the [16th International Symposium on Measurement Technology and Intelligent Instruments / 3rd International Conference of Optical Imaging and Measurement](https://www.ismtii2025.com/En/Default).
+- 10/2023 – 10/2024: **Organising committee member** of the [18th CIRP Conference on Computer Aided Tolerancing](https://fmh.hud.ac.uk/cirp-conference/).
