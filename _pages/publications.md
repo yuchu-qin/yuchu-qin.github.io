@@ -4,6 +4,9 @@ author_profile: true
 ---
 
 ## Publications
+### Statistics
+- Journal papers: **66** (including *29* first-author papers and **7** corresponding-author); Conference papers: **9**; Academic mongraphs: **2**. Citations: Please see [**Google Scholar**](https://scholar.google.com/citations?user=hFWFwUgAAAAJ&hl=en).
+
 ### Journal Papers (66)
 ### 2026 (4):
 - Shi P*, **Qin Y**, Meng F, Scott PJ, Jiang X. [Machine learning in feature recognition for manufacturing: taxonomy, analytical review, comparisons, trends, challenges, and outlook](https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2675460). _International Journal of Production Research_, 2026, doi: 10.1080/00207543.2026.2675460.
