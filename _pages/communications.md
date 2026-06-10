@@ -4,9 +4,6 @@ author_profile: true
 ---
 
 ## Communications
-### Statistics
-- Conference presentations: **5**; Invited talks: **14**; Invited lectures: **8**.
-
 ### Conference Presentations (5)
 - 20/05/2026: Integration in Additive Manufacturing Digital Thread: A Category-Theoretic Framework, Early Career Researcher Symposium of the EPSRC Future Advanced Metrology Hub for Sustainable Manufacturing,
 University of Oxford, Oxford, UK.
