@@ -5,7 +5,7 @@ author_profile: true
 
 ## Publications
 ### Statistics
-- Journal papers: **66** (including *29* first-author papers and **7** corresponding-author); Conference papers: **9**; Academic mongraphs: **2**. Citations: Please see [**Google Scholar**](https://scholar.google.com/citations?user=hFWFwUgAAAAJ&hl=en).
+- Journal papers: **66** (including *29* first-author papers and **7** corresponding-author); Conference papers: **9**; Academic mongraphs: **2**. Citations: Please see my [**Google Scholar profile**](https://scholar.google.com/citations?user=hFWFwUgAAAAJ&hl=en).
 
 ### Journal Papers (66)
 ### 2026 (4):
