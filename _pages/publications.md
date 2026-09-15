@@ -4,8 +4,9 @@ author_profile: true
 ---
 
 ## Publications
-### Journal Papers (66)
-### 2026 (4):
+### Journal Papers (67)
+### 2026 (5):
+- Ma L, Xu X, Tong H, Cui C*, Li T, **Qin Y**, Lou S, Zeng W. [Degradation monitoring of perovskite films by spectroscopic ellipsometry and its effect on device optical performance](https://www.sciencedirect.com/science/article/pii/S0038092X26007619?via%3Dihub). _Solar Energy_, 2026, 318: 115072.
 - Shi P*, **Qin Y**, Meng F, Scott PJ, Jiang X. [Machine learning in feature recognition for manufacturing: taxonomy, analytical review, comparisons, trends, challenges, and outlook](https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2675460). _International Journal of Production Research_, 2026, doi: 10.1080/00207543.2026.2675460.
 - Tang Z, Chen R, Huang M*, **Qin Y**, Zhong Y, Qin L. [A linear virtual gauge method for Dual MMR based coaxiality of shafts](https://www.sciencedirect.com/science/article/pii/S0263224126016209). _Measurement_, 2026, 281: 121911.
 - Xiong J, Su T, Chen X, Zhang Z*, Zeng W, Zhang Z, Lou S, Zhong W, **Qin Y**, Scott PJ, Jiang X. [Mechanism-data fusion for quantitative prediction of transmitted wavefront error in multi-point bonded optics](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-7-13545). _Optics Express_, 2026, 34(7): 13545-13563.
@@ -101,9 +102,10 @@ author_profile: true
 ### 2012 (1):
 - Xia X, Zhong Y*, **Qin Y**, Ji L. [Research on Operational Model of New-Generation GPS Based on Dynamic Description Logic](https://www.scientific.net/AMM.128-129.702). _Applied Mechanics and Materials_, 2012, 128: 702-705.
 
-### Conference Papers (9)
-- **Qin Y***, Liu W, Li T, Lou S, Scott PJ, Jiang X. Data-driven multi-objective optimisation of build orientation of parts with internal channels manufactured by laser powder bed fusion. In: _Proceedings of the 22nd International Conference on Manufacturing Research_, Springer, 2026, pp. 1-6. 
-- **Qin Y***, Lou S, Li T, Zeng W, Scott PJ, Jiang X. Abstracting prediction of surface roughness in laser powder bed fusion using logical reasoning and category theory. In: _Proceedings of the 16th International Symposium on Measurement Technology and Intelligent Instruments_, Springer, 2026, vol. 1596, pp. 63-73.
+### Conference Papers (10)
+- **Qin Y***, Liu W, Li T, Lou S, Scott PJ, Jiang X. Data-driven multi-objective optimisation of build orientation of parts with internal channels manufactured by laser powder bed fusion. In: _Proceedings of the 22nd International Conference on Manufacturing Research_, Springer, 2026, pp. 1-6.
+- Tang Z, Huang D*, Huang M, **Qin Y**. [A Review of FDM Surface Roughness Prediction Methods Based on the Degree of Physics-Informed Integration](https://ieeexplore.ieee.org/abstract/document/11650657). In: _2026 2nd International Conference on IOT, Data Science and Advanced Computing_, IEEE, 2026, pp. 237-242. 
+- **Qin Y***, Lou S, Li T, Zeng W, Scott PJ, Jiang X. [Abstracting prediction of surface roughness in laser powder bed fusion using logical reasoning and category theory](https://link.springer.com/chapter/10.1007/978-981-95-8146-7_7). In: _Proceedings of the 16th International Symposium on Measurement Technology and Intelligent Instruments_, Springer, 2026, vol. 1596, pp. 63-73.
 - Tang Z, Jiao Y*, Huang M, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
 - Li Q, Zhong Y, **Qin Y***. [MoCoKGC: Momentum Contrast Entity Encoding for Knowledge Graph Completion](https://aclanthology.org/2024.emnlp-main.832/). In: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_, ACL, 2024, pp. 14940-14952.
 - Yin K, Lou S*, **Qin Y**, Scott P, Jiang X. [Computer Vision-enhanced In-situ Surface Topography Measurement with Focus Variation Microscopy for Material Extrusion-based Additive Manufacturing](https://ieeexplore.ieee.org/document/10718829). In: _29th International Conference on Automation and Computing_, IEEE, 2024, pp. 1-6.
