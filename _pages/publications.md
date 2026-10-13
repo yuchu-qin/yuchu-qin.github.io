@@ -102,9 +102,10 @@ author_profile: true
 ### 2012 (1):
 - Xia X, Zhong Y*, **Qin Y**, Ji L. [Research on Operational Model of New-Generation GPS Based on Dynamic Description Logic](https://www.scientific.net/AMM.128-129.702). _Applied Mechanics and Materials_, 2012, 128: 702-705.
 
-### Conference Papers (11)
+### Conference Papers (12)
 - Yin K*, **Qin Y**, Lou S, Scott P, Jiang X. Internal Quality Optimisation of Material Extrusion Additive Manufacturing via Computer Vision-Enhanced Layerwise Surface Topography Measurement. In: _euspen’s 26th International Conference & Exhibition_, Euspen, 2026, pp. 1-4.
 - **Qin Y***, Liu W, Li T, Lou S, Scott PJ, Jiang X. Data-driven multi-objective optimisation of build orientation of parts with internal channels manufactured by laser powder bed fusion. In: _Proceedings of the 22nd International Conference on Manufacturing Research_, Springer, 2026, pp. 1-6.
+- Yin K*, Lou S, **Qin Y**, Scott P, Jiang X. [A Digital Metrology Framework for Laser Processing with Physics-Informed Neural Networks](https://ieeexplore.ieee.org/abstract/document/11712516). In: _31st International Conference on Automation and Computing_, IEEE, 2026, pp. 1-6.
 - Tang Z, Huang D*, Huang M, **Qin Y**. [A Review of FDM Surface Roughness Prediction Methods Based on the Degree of Physics-Informed Integration](https://ieeexplore.ieee.org/abstract/document/11650657). In: _2026 2nd International Conference on IOT, Data Science and Advanced Computing_, IEEE, 2026, pp. 237-242. 
 - **Qin Y***, Lou S, Li T, Zeng W, Scott PJ, Jiang X. [Abstracting prediction of surface roughness in laser powder bed fusion using logical reasoning and category theory](https://link.springer.com/chapter/10.1007/978-981-95-8146-7_7). In: _Proceedings of the 16th International Symposium on Measurement Technology and Intelligent Instruments_, Springer, 2026, vol. 1596, pp. 63-73.
 - Tang Z, Jiao Y*, Huang M, **Qin Y**, Zhong Y. [Overview of intelligent CMM guidance technology](https://dl.acm.org/doi/10.1145/3700003.3700010). In: _Proceedings of the 2024 International Conference on Virtual Reality, Image and Signal Processing_, ACM, 2025, pp. 33-37.
